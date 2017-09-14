@@ -8,4 +8,4 @@ My activity so far is mostly focused on the development of the <a href="http://r
 
 * <a href="http://repmus.ircam.fr/openmusic" target="_blank">OpenMusic official site</a> (IRCAM, Music Representations team) 
 * <a href="http://forumnet.ircam.fr/shop/fr/forumnet/43-openmusic.html" target="_blank">OpenMusic disribution site</a> (IRCAM, Forumnet) [+ <a href="http://forumnet.ircam.fr/product/openmusic-libraries-en/" target="_blank">external libraries</a>]
-* => <a href="https://openmusic-project.github.io/" target="_blank">o7</a>: a new implemebtation of the visual language (GitHub).
+* **o7**: a new implementation of the visual language (<a href="https://openmusic-project.github.io/" target="_blank">GitHub</a>).
