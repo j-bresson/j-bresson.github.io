@@ -11,29 +11,29 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h2>{{ site.title | default: site.github.repository_name }}</h2>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <br>
-        <p class="view">
-        <ul>
-        <li><a href="http://repmus.ircam.fr/bresson" target="_blank">@<b>IRCAM</b></a></li>
-        <li><a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></li>
-        <li><a href="https://cv.archives-ouvertes.fr/jean-bresson" target="_blank">HAL</a></li>
-        </ul>
-        </p>
-      </header>
-      <section>
-      <p class="main">  
+  <table border=0>
+     <tr>
+        <td>
+        <h2><a href="index.html">{{ site.title | default: site.github.repository_name }}</a></h2>
+        <p text-align="right"><font color=999999>
+        <i>Chargé de Recherche et Développement, HDR</i>
+        <br>Science and Technology of Music and Sound
+        <br>IRCAM – CNRS – Sorbonne Université 
+        </font></p>
+        </td>
+        <td><img src="images/7666142.jpeg" width=100 align="right"/></td>
+      </tr>
+    </table>
+
+    <table><tr><td><p>  
       {{ content }}
-      </p>
-      </section>
-      <footer>
-        <p>
-        <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
+    </p></td></tr></table>
+    
+    <table><tr><td>
+      <small><font color=gray>Hosted on GitHub Pages</font></small>
+    </td></tr>
+    </table>
+  
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>

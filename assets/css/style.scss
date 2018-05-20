@@ -1,8 +1,31 @@
 ---
 ---
-
 @import "{{ site.theme }}";
+
+body {
+	background-color : #a39d9b ;
+	font-size : 13px ;
+	font-face : "Calibri" ;
+	color : black ;
+}
+
+table {
+	border : none;
+	background : white ;
+	border-radius: 5px;
+    padding: 20px; 
+}
+
+tr,td {
+	border-bottom: none;
+}
+
 
 p {
 	text-align : justify ;
+}
+
+a {
+	color : #6f697f ;
+	text-decoration : underline;
 }
