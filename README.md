@@ -5,7 +5,7 @@ I am researcher and developer at <a href="https://www.ircam.fr/recherche/" targe
 &rarr; <a href="http://repmus.ircam.fr/bresson" target="_blank">Personal page at IRCAM</a> <br>
 &rarr; [Publication list](publi)<br>
 &rarr; <a href="https://github.com/j-bresson" target="_blank">GitHub profile</a> <br>
-
+&rarr; <a href="https://scholar.google.fr/citations?user=e7hfV1AAAAAJ" target="_blank">Google Scholar</a> <br>
 
 ### —OpenMusic
 
