@@ -3,8 +3,7 @@
 I am a researcher (recently appointed senior researcher) at <a href="https://www.ircam.fr/recherche/" target="_blank">**IRCAM**</a>'s <a href="https://www.stms-lab.fr/" target="_blank">**STMS**</a> lab, working in the "Music REpresentations" team on computer-aided music composition and domain-specific (visual) programming systems for composers. 
 
 <!-- &rarr; -->
-Profile pages: 
-
+Profile pages:
 <a href="http://repmus.ircam.fr/bresson" target="_blank">Repmus</a> |
 <a href="https://www.stms-lab.fr/person/jean-bresson/" target="_blank">IRCAM/STMS</a> |
 <a href="https://github.com/j-bresson" target="_blank">GitHub</a> |
