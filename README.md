@@ -1,6 +1,6 @@
 
 
-I am a researcher (recently appointed _senior_ researcher) at <a href="https://www.ircam.fr/recherche/" target="_blank">**IRCAM**</a>'s <a href="https://www.stms-lab.fr/" target="_blank">STMS lab</a>, working in the "Music REpresentations" team on computer-aided music composition and domain-specific (visual) programming systems for composers. 
+I am a researcher (recently appointed _senior_ researcher) at <a href="https://www.ircam.fr/recherche/" target="_blank">**IRCAM**</a>'s <a href="https://www.stms-lab.fr/" target="_blank">**STMS**</a> lab, working in the "Music REpresentations" team on computer-aided music composition and domain-specific (visual) programming systems for composers. 
 
 <!-- &rarr; -->
 
