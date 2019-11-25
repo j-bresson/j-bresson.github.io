@@ -8,11 +8,27 @@ body {
 	color : black ;
 }
 
+h1 { 
+	font-size: 22px;
+} 
+
+h2 { font-size: 20px; } 
+h3 { font-size: 18px; } 
+h4 { font-size: 16px; } 
+h5 { font-size: 14px; } 
+
+/* title */
 h1 a { 
+	margin-top: -10px;
 	color : #6f697f ;
 	font-family: "Calibri";
 	font-size: 22px;
 }
+
+h1, h2, h3, h4, h5 {
+	margin-bottom: 4px;
+}
+
 
 p {
 	text-align : justify ;
@@ -46,6 +62,7 @@ img {
 
 a {
 	color : #478 ;
+	font-weight: bold;
 	text-decoration : none;
 }
 
@@ -59,17 +76,17 @@ table.project {
 	width: 95%;
 	background-color: #bbb;
 	margin-top: 20px;
-	padding: 16px;
+	padding: 12px;
 }
 
 table.project th {
 	text-align: left;
 	font-size: 18px;
-	padding: 16px;
+	padding: 12px;
 }
 
 table.project td {
-	padding: 0px 16px 10px 16px;
+	padding: 12px;
 }
 
 

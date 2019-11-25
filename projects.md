@@ -1,6 +1,5 @@
 # Projects
-
-This is a list of the main compuer music projects I have been working on so far.
+Some projects I've been working on.
 
 <table class="project">
 <tr><th>OpenMusic (2003-2019)</th></tr>
@@ -15,7 +14,7 @@ OpenMusic has grown to be a reference environment for computer-assisted music co
 </p>
 
 <p>
-While continuing to maintain and support OpenMusic, since a few years I started to work on a renewed implementation of the environment, and progressively shifted my focus onto what is now called <b>OM#</b> (see below). 
+While continuing to maintain and support OpenMusic, in recent years I have started working on a new implementation of the environment, and I have progressively focused on what is now called <b>OM#</b> (see below). 
 </p>
 
 <h4>Links:</h4>
@@ -37,7 +36,7 @@ https://openmusic-project.github.io/om7-beta/
 </td></tr></table>
 
 <table class="project">
-<tr><th> Cosmologies for Concert Grand Piano (2019)</th></tr>
+<tr><th> Cosmologies of the Concert Grand Piano (2019)</th></tr>
 <tr><td>
 https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/
 
