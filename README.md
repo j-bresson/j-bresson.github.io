@@ -1,32 +1,53 @@
 
 
-I am a researcher at <a href="https://www.ircam.fr/recherche/" target="_blank">**IRCAM**</a>'s <a href="https://www.stms-lab.fr/" target="_blank">**STMS**</a> lab, working in the Music Representations team on computer-aided music composition and domain-specific (visual) programming systems for composers. 
+Hi! I'm a computer music researcher and software engineer, freshly settled in Berlin, Germany. 
 
-<!-- &rarr; -->
-Profile pages:
-<a href="http://repmus.ircam.fr/bresson" target="_blank">Repmus</a> |
-<a href="https://www.stms-lab.fr/person/jean-bresson/" target="_blank">IRCAM/STMS</a> |
-<a href="https://github.com/j-bresson" target="_blank">GitHub</a> |
-<a href="https://cv.archives-ouvertes.fr/jean-bresson" target="_blank">HAL (publications)</a> |
-<a href="https://scholar.google.fr/citations?user=e7hfV1AAAAAJ" target="_blank">Google Scholar</a> | 
-<a href="https://www.linkedin.com/in/jean-bresson/" target="_blank">LinkedIn</a> |
-<a href="http://ircam.academia.edu/JeanBresson/" target="_blank">Academia.edu</a> <br>
+From 2003 to 2019 I worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming systems for composers: I have been the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting it to digital sound processing, spatialization, or real-time interaction systems. 
+
+I obtained my doctorate from the Université Pierre et Marie Curie in 2007, and passed my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017. 
+In 2016 I got a grant from the Fulbright French-American commission for a [research scholarship at CNMAT, UC Berkeley](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). I was appointed Senior IRCAM Researcher (_Directeur de Recherches_) at the end of 2019.
+
+I have given numerous invited talks and workshops about OpenMusic and computer assisted compositon. In 2018-2019 I was part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe, Germany. 
 
 
-### – OpenMusic
 
-My activity is mostly focused on the development of the **OpenMusic** software. I have carried out R&D projects in this environment for 15+ years and particularly worked towards connecting it to digital sound processing, spatialization, or real-time interaction systems. 
 
-* <a href="http://repmus.ircam.fr/openmusic/" target="_blank">OpenMusic main site</a> (IRCAM, Music Representations team) 
-* <a href="https://github.com/openmusic-project/OM6" target="_blank">GitHub repository</a> (including download links) 
-* <a href="https://github.com/openmusic-project/" target="_blank">OpenMusic project</a> on GitHub (including an extended set of support and add-on libraries). 
-* <a href="https://forum.ircam.fr/collections/detail/om-librairies/" target="_blank">IRCAM Forum Collection</a> (with some other external libraries)
-* **<a href="https://github.com/openmusic-project/om7-beta" target="_blank">om7-beta</a>**: a new implementation of the visual language .
+-----
 
-### – Publications
+##### – Projects...
 
-&rarr; [Complete list of publications](publi)
+- [OM#](https://openmusic-project.github.io/om-sharp/) is a new environment derived from OpenMusic, that I am devloping since a few years now. **Try it out !**  
+- [Past projects](projects): a list of other projects that I have been working on.
 
-### – Other
+-----
 
-See more activity and links on <a href="http://repmus.ircam.fr/bresson" target="_blank">my IRCAM / Repmus profile page</a>.
+I am also currently in the board of the following steering committees:
+
+- [TENOR](https://tenor-conference.org) Internation Conference on Technologies for Music Notation and Representation (General Chair).
+- [FARM](https://functional-art.org): ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
+- [AFIM](http://afim-asso.org) : French Computer Music Association.
+
+
+-----
+##### – Research supervision
+
+I am the advisor of Martin Fouilleul's PhD at IRCAM / STMS lab (Sorbonne Université, Paris): _Architecture and language for distributed temporal flow management, and applications to multimeia creation_ (co-director: Jean-Louis Giavitto).
+
+<!-- Here is a [list of former students and researchers I have supervised](supervision).-->
+
+-----
+##### – Publications
+
+- [Complete list](publi)
+- _[The OM Composer's Book](http://repmus.ircam.fr/openmusic/ombook)_: A series of 3 volumes about OpenMusic and its use by composers.
+- [Habilitation thesis](https://hal.archives-ouvertes.fr/tel-01525998/) [In French]: _Composition assistée par ordinateur : techniques et outils de programmation visuelle pour la création musicale_.
+
+<!-- _Computer-assisted composition: visual programming techniques and tools for musical creation_ -->
+
+<!--
+##### Mémoire d'Habilitation à Diriger des Recherches / _Habilitation Thesis_  (2017):       
+Composition assistée par ordinateur : techniques et outils de programmation visuelle pour la création musicale      
+_Computer-assisted composition: visual programming techniques and tools for musical creation_.     
+**[Thesis [in French]](https://hal.archives-ouvertes.fr/tel-01525998/)** \| [Support materials](http://repmus.ircam.fr/bresson/hdr).
+-->
+
