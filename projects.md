@@ -29,11 +29,6 @@ While continuing to maintain and support OpenMusic, in recent years I have start
 
 </td></tr></table>
 
-<table class="project">
-<tr><th> OM# (2013-...) </th></tr>
-<tr><td>
-https://openmusic-project.github.io/om7-beta/
-</td></tr></table>
 
 <table class="project">
 <tr><th> Cosmologies of the Concert Grand Piano (2019)</th></tr>
