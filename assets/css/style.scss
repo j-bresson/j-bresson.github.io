@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5 {
 
 
 p {
-	text-align : justify ;
+	text-align : left ;
 }
 
 li {
@@ -58,6 +58,7 @@ div.main {
 
 img {
 	margin: 0px 0px 00px 20px;
+	border-radius: 8px;
 }
 
 a {
@@ -82,11 +83,17 @@ table.project {
 table.project th {
 	text-align: left;
 	font-size: 18px;
-	padding: 12px;
+	padding-top: 12px;
+	padding-bottom: 0px;
+	padding-right: 12px;
+	padding-left: 12px;
 }
 
 table.project td {
-	padding: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-right: 12px;
+	padding-left: 12px;
 }
 
 

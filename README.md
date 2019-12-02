@@ -17,7 +17,7 @@ I have given numerous invited talks and workshops about OpenMusic and computer a
 
 <table class="project">
 <tr><td>
-<ul><li><b>OM#</b>: a new computer assisted composition / visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a>, that I started developing in 2013. 
+<ul><li><b><a href="https://openmusic-project.github.io/om7-beta/">OM#</a></b>: a new computer assisted composition / visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a>, that I started developing in 2013. 
 The environment proposed a redesigned user interface, as well as advanced tools for interactive visual programming and digital signal processing.
 <br>
 <b>&rarr; <a href="https://openmusic-project.github.io/om7-beta/">https://openmusic-project.github.io/om7-beta/</a></b>
