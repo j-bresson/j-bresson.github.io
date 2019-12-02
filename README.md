@@ -3,12 +3,9 @@
 I am a computer music researcher and software engineer. 
 From 2003 to 2019 I worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming systems for composers: I have been the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting it to digital sound processing, spatialization, or real-time interaction systems. 
 
-I obtained my doctorate from the Université Pierre et Marie Curie in 2007, and passed my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017. 
-In 2016 I got a grant from the Fulbright French-American commission for a [research scholarship at CNMAT, UC Berkeley](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). I was appointed Senior IRCAM Researcher (_Directeur de Recherches_) at the end of 2019.
-
-I have given numerous invited talks and workshops about OpenMusic and computer assisted compositon. In 2018-2019 I was part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe, Germany. 
-
-<!-- I will soon be working at **[Ableton](https://www.ableton.com/)**, as a _Live_ software engineer. -->
+I obtained my PhD from the Université Pierre et Marie Curie in 2007, and passed my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017. I was appointed Senior Researcher (_Directeur de Recherches_) at Ircam at the end of 2019.
+In 2016 I got a grant from the Fulbright French-American commission for a [research scholarship at CNMAT, UC Berkeley](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). 
+In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe, Germany. 
 
 -----
 
@@ -20,7 +17,7 @@ I have given numerous invited talks and workshops about OpenMusic and computer a
 <ul><li><b><a href="https://openmusic-project.github.io/om7-beta/">OM#</a></b>: a new computer assisted composition / visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a>, that I started developing in 2013. 
 The environment proposed a redesigned user interface, as well as advanced tools for interactive visual programming and digital signal processing.
 <br>
-<b>&rarr; <a href="https://openmusic-project.github.io/om7-beta/">https://openmusic-project.github.io/om7-beta/</a></b>
+<b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">Project page</a></b> (downloads, documentation, ...)
 </li></ul>
 </td></tr></table>
 

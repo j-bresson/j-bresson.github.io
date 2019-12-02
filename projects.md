@@ -7,15 +7,15 @@ Some projects I've been working on.
 
 <img src="images/om-patch.png" width="200" align="right"/>
 <p>
-OpenMusic was my main project for the many years I have been working at Ircam. This visual programming language based on Lisp was initially developed at Ircam by Carlos Agon and Gérard Assayag while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (OM5) in 2005. OM6 was then released just a few years later, in 2008. It is still the version hat is used today ! In 2012 I started to collaborate with Anders Vinjar with the support of the Norwegian centers BEK and Notam, on a Linux version that is now also available.
+OpenMusic was my main project for the many years I have been working at Ircam. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version hat is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
 </p>
 
 <p>
-OpenMusic has grown to be a reference environment for computer-assisted music composition, today used, and taught by many composers in many institutions worldwide.    
+OpenMusic has grown to be a reference environment for computer-assisted music composition, today used, and taught by <a href="http://repmus.ircam.fr/openmusic/ombook" target="_">many composers</a> in many institutions worldwide.    
 </p>
 
 <p>
-While continuing to maintain and support OpenMusic, in recent years I have started working on a new implementation of the environment, and I have progressively focused on what has now become <a href="https://openmusic-project.github.io/om7-beta/">OM#</a>. 
+While continuing to maintain and support OpenMusic, in recent years I have started working on a new implementation of the environment as an outcome for several research projects, and I have progressively focused on what has now become <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a>. 
 </p>
 
 <h4>Links:</h4>
@@ -36,7 +36,10 @@ While continuing to maintain and support OpenMusic, in recent years I have start
 <tr><td>
 <img src="images/IMG_20191106_183156.jpg" width="300" align="right"/>
 <p>
-My last project at Ircam was a collaboration as Tech Project coordinator to Aaron Einbond's Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+My last project at Ircam was a collaboration as "Tech Project coordinator" to <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+</p>
+<p>
+In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OpenMusic.   
 </p>
 
 <b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
@@ -49,17 +52,20 @@ My last project at Ircam was a collaboration as Tech Project coordinator to Aaro
 <tr><th> PACO: Artificial Intelligence and Computer-Assisted Composition (2018-2019) </th></tr>
 <tr><td>
 
-<img src="images/om-ai.png" width="400" align="right"/>
+<img src="images/om-ai.png" width="300" align="right"/>
 <p>
 In 2018-2019 I got a start-up funding from the CNRS "PEPS" program for an exploratory project about artificial intelligence (just like everybody else!), machine learning and computer-assisted composition.
 </p>
 <p>
 While AI and machine learning are now omnipresent in the scene of music and sound research and technology, the appropriation and use of these techniques <i>by composers</i> within the framework of creative processes (and not as a substitution or complement to creativity) remains marginal or non-existent.
-</p>
-<p>
+
 With this project our objective was to explore the possibility for composers to implement experimental cycles including the preparation and training of learning models, and the adjustment of their parameters for the generation of new data, or the resolution of musical problems. An underlying hypothesis, beyond computational and performance aspects, is that these models can make it possible to deal with more or less abstract characteristics of musical structures, which are sometimes difficult to quantify and treat explicitly by classical programming techniques.
 </p>
 
+<p>
+Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, Alireza Farhang, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
+Anders Vinjar is currently following-up on it, in the context of a musical researcxh residency at IRCAM (2019-2020).
+</p>
 
 <b>&rarr; <a href="http://repmus.ircam.fr/paco/home-en" target="_blank">PACO project page</a></b> 
 
@@ -68,8 +74,20 @@ With this project our objective was to explore the possibility for composers to 
 <table class="project">
 <tr><th> Symbolist (2018) </th></tr>
 <tr><td>
-https://github.com/ramagottfried/symbolist
 
+<img src="images/symbolist.png" width="300" align="right"/>
+
+<p>
+<a href="https://github.com/ramagottfried/symbolist" target="_blank">Symbolist</a> is a collaboration with composer <a href="http://www.ramagottfried.com/" target="_blank">Rama Gottfried</a>, started in 2018 during his musical research residency at IRCAM.
+</p>
+<p>
+Our objective was to create a graphic notation environment for music and multimedia, enabling graphical editing, programming, and streaming of multi-rate/multidimensional control data encoded as OSC structures.
+</p>
+
+<p>
+Vincent Iampietro (Master's student) also worked on the develoment of the current prototype.
+Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
+</p>
 </td></tr></table>
 
 
