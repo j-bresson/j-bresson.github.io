@@ -2,7 +2,7 @@
 Some projects I've been working on.
 
 <table class="project">
-<tr><th>OpenMusic (2003-2019)</th></tr>
+<tr><th>OpenMusic (2003-...)</th></tr>
 <tr><td>
 
 <img src="images/om-patch.png" width="200" align="right"/>
@@ -36,10 +36,10 @@ While continuing to maintain and support OpenMusic, in recent years I have start
 <tr><td>
 <img src="images/IMG_20191106_183156.jpg" width="300" align="right"/>
 <p>
-My last project at Ircam was a collaboration as "Tech Project coordinator" to <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+I am the "Tech Project coordinator" of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
 </p>
 <p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OpenMusic.   
+In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OpenMusic/OM#.   
 </p>
 
 <b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
@@ -63,7 +63,7 @@ With this project our objective was to explore the possibility for composers to 
 </p>
 
 <p>
-Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, Alireza Farhang, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
+Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, <a href="https://www.alirezafarhang.com/post/traces-of-expressivity-data-stream" target="_">Alireza Farhang</a>, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
 Anders Vinjar is currently following-up on it, in the context of a musical researcxh residency at IRCAM (2019-2020).
 </p>
 
@@ -94,8 +94,15 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 <table class="project">
 <tr><th> o.OM: Fulbright Research Scholarship at CNMAT / UC Berkeley (2016) </th></tr>
 <tr><td>
-http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition
+
+<img src="images/odot-data-stream-0.png" width="240" align="right"/>
+<p>While I a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright scholar at UC Berlekey</a> in 2016, I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows to the development of applications of the odot library in OM.</p>
+
+<b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-01353794" target="_blank">FARM'16 Paper</a></b> 
+
 </td></tr></table>
+
+<!-- 
 
 <table class="project">
 <tr><th> EFFICACe: Interactivity in Computer-Assisted Composition Processes (2013-2017) </th></tr>
@@ -144,7 +151,10 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 https://github.com/j-bresson/SDIF-Edit
 </td></tr></table>
 
-<!---
+-->
+
+
+<!--
 <table class="project">
 <tr><th>  </th></tr>
 <tr><td>
