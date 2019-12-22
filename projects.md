@@ -7,7 +7,7 @@ Some projects I've been working on.
 
 <img src="images/om-patch.png" width="200" align="right"/>
 <p>
-OpenMusic was my main project for the many years I have been working at Ircam. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version hat is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
+OpenMusic was my main project for the many years I have been working at Ircam. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
 </p>
 
 <p>
@@ -96,7 +96,7 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 <tr><td>
 
 <img src="images/odot-data-stream-0.png" width="240" align="right"/>
-<p>While I a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright scholar at UC Berlekey</a> in 2016, I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows to the development of applications of the odot library in OM.</p>
+<p>While I a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright scholar at UC Berlekey</a> in 2016, I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the _odot_ library in OM.</p>
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-01353794" target="_blank">FARM'16 Paper</a></b> 
 

@@ -14,7 +14,7 @@ In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwiss
 
 <table class="project">
 <tr><td>
-<ul><li><b><a href="https://openmusic-project.github.io/om7-beta/">OM#</a></b>: a new computer assisted composition and visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a>, that I started developing in 2013. 
+<ul><li><b><a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a></b>: a new computer assisted composition and visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a>, that I started developing in 2013. 
 The environment features a fully redesigned visual programming framework, as well as advanced tools for interactive computer assisted composition and digital signal processing.
 <br>
 <b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">Project page</a></b> (downloads, documentation, ...)
