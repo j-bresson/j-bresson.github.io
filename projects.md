@@ -1,13 +1,14 @@
 # Projects
-Some projects I've been working on.
+Some other / past projects I've been working on.
 
+<a name="om">
 <table class="project">
 <tr><th>OpenMusic (2003-...)</th></tr>
 <tr><td>
 
-<img src="images/om-patch.png" width="200" align="right"/>
+<img src="images/om-patch.png" width="240" align="right"/>
 <p>
-OpenMusic was my main project for the many years I have been working at Ircam. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
+OpenMusic was my main project while working at IRCAM. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
 </p>
 
 <p>
@@ -31,51 +32,12 @@ While continuing to maintain and support OpenMusic, in recent years I have start
 </td></tr></table>
 
 
-<table class="project">
-<tr><th> Cosmologies of the Concert Grand Piano (2019)</th></tr>
-<tr><td>
-<img src="images/IMG_20191106_183156.jpg" width="300" align="right"/>
-<p>
-I am the "Tech Project coordinator" of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
-</p>
-<p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OpenMusic/OM#.   
-</p>
-
-<b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
-
-
-
-</td></tr></table>
-
-<table class="project">
-<tr><th> PACO: Artificial Intelligence and Computer-Assisted Composition (2018-2019) </th></tr>
-<tr><td>
-
-<img src="images/om-ai.png" width="300" align="right"/>
-<p>
-In 2018-2019 I got a start-up funding from the CNRS "PEPS" program for an exploratory project about artificial intelligence (just like everybody else!), machine learning and computer-assisted composition.
-</p>
-<p>
-While AI and machine learning are now omnipresent in the scene of music and sound research and technology, the appropriation and use of these techniques <i>by composers</i> within the framework of creative processes (and not as a substitution or complement to creativity) remains marginal or non-existent.
-
-With this project our objective was to explore the possibility for composers to implement experimental cycles including the preparation and training of learning models, and the adjustment of their parameters for the generation of new data, or the resolution of musical problems. An underlying hypothesis, beyond computational and performance aspects, is that these models can make it possible to deal with more or less abstract characteristics of musical structures, which are sometimes difficult to quantify and treat explicitly by classical programming techniques.
-</p>
-
-<p>
-Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, <a href="https://www.alirezafarhang.com/post/traces-of-expressivity-data-stream" target="_">Alireza Farhang</a>, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
-Anders Vinjar is currently following-up on it, in the context of a musical researcxh residency at IRCAM (2019-2020).
-</p>
-
-<b>&rarr; <a href="http://repmus.ircam.fr/paco/home-en" target="_blank">PACO project page</a></b> 
-
-</td></tr></table>
 
 <table class="project">
 <tr><th> Symbolist (2018) </th></tr>
 <tr><td>
 
-<img src="images/symbolist.png" width="300" align="right"/>
+<img src="images/symbolist.png" width="240" align="right"/>
 
 <p>
 <a href="https://github.com/ramagottfried/symbolist" target="_blank">Symbolist</a> is a collaboration with composer <a href="http://www.ramagottfried.com/" target="_blank">Rama Gottfried</a>, started in 2018 during his musical research residency at IRCAM.
@@ -92,24 +54,38 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 
 
 <table class="project">
-<tr><th> o.OM: Fulbright Research Scholarship at CNMAT / UC Berkeley (2016) </th></tr>
+<tr><th> o.OM: Experiments with CNMAT's odot library (2016) </th></tr>
 <tr><td>
 
 <img src="images/odot-data-stream-0.png" width="240" align="right"/>
-<p>While I a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright scholar at UC Berlekey</a> in 2016, I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the _odot_ library in OM.</p>
+<p>I was at UC Berkeley in 2016 in a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright Research scholarship</a>, where I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the <i>odot</i> library in OM.</p>
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-01353794" target="_blank">FARM'16 Paper</a></b> 
 
 </td></tr></table>
 
-<!-- 
 
 <table class="project">
 <tr><th> EFFICACe: Interactivity in Computer-Assisted Composition Processes (2013-2017) </th></tr>
 <tr><td>
-http://repmus.ircam.fr/efficace/
+
+<img src="images/trajectoires.jpg" width="240" align="right"/>
+<p>
+EFFICACe was an exploratory research project that I coordinated at Ircam, funded by the French <a href="https://anr.fr/Project-ANR-13-JS02-0004" target="_blank"> National research Agency</a>. 
+</p>
+<p>
+The project explored the relations between computation, time and interactions in computer-aided music composition, using OpenMusic and other technologies developed at IRCAM and at <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a>. Considering computer-aided composition out of its traditional "offline" paradigm, we tried to integrate compositional processes in structured interactions with their context: the interactions taking place during executions or performances, or at the early compositional stages (in the processes that lead to the creation of musical material). In this perspective we have studied reactive approaches for computer-aided composition, the notion of dynamic time structures in computation and music, rhythmic and symbolic time structures, and new modalities for the interactive control, visualisation and execution of sound synthesis and spatialization processes. 
+</p>
+<p>
+I have worked on this project with <a href="" target="_blank">Dimitri Bouche</a> (PhD student), <a href="http://recherche.enac.fr/~jeremie.garcia/" target="_blank">Jérémie Garcia</a> (post-doctoral researcher), <a href="https://www.stms-lab.fr/person/thibaut-carpentier/" target="_blank">Thibaut Carpentier</a> (CNRS/Ircam), <a href="http://imtr.ircam.fr/imtr/Diemo_Schwarz" target="_blank">Diemo Schwarz</a> (Ircam) and <a href="https://jacquema.gitlabpages.inria.fr/" target="_blank">Florent Jacquemard</a> (Inria/Ircam). 
+
+EFFICACe research also led to most of the novel features of the <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> environment.
+</p>
+
+<b>&rarr; <a href="http://repmus.ircam.fr/efficace/" target="_blank">Project pages</a></b>
 </td></tr></table>
 
+<!--
 <table class="project">
 <tr><th> Spatialization Tools (2008-2019) </th></tr>
 <tr><td>
@@ -143,15 +119,20 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 
 
 </td></tr></table>
+-->
 
 
 <table class="project">
 <tr><th> SDIF-Edit (2003-2004) </th></tr>
 <tr><td>
-https://github.com/j-bresson/SDIF-Edit
+<img src="images/sdifedit.jpg" width="240" align="right"/>
+<p>
+SDIF-Edit was my first, student internship project developed when I started at IRCAM in 2003.
+It is a 3D visualizer and editor developed in OpenGL, allowing to view the contents of SDIF files (<a href="http://sdif.sourceforge.net/" target="_blank">Sound Description Interchange Format</a>, a file format used by music applications to store dan exchange sounds analysis data, synthesis parameters, etc.)
+</p>
+<b>&rarr; <a href="https://github.com/j-bresson/SDIF-Edit" target="_blank">SDIF-Edit on GitHub</a></b>
 </td></tr></table>
 
--->
 
 
 <!--
