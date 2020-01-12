@@ -55,7 +55,7 @@ With this project our objective was to explore the possibility for composers to 
 
 <p>
 Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, <a href="https://www.alirezafarhang.com/post/traces-of-expressivity-data-stream" target="_">Alireza Farhang</a>, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
-Anders Vinjar is currently following-up on it, in the context of a musical researcxh residency at IRCAM (2019-2020).
+Anders Vinjar is currently following-up on it, in the context of a musical research residency at IRCAM (2019-2020).
 </p>
 
 <b>&rarr; <a href="http://repmus.ircam.fr/paco/home-en" target="_blank">PACO project page</a></b> 
@@ -90,17 +90,14 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 #### – Research/PhD supervision
 
 - Martin Fouilleul, PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Architecture and language for distributed temporal flow management, and applications to multimedia creation_ (co-direction with [J.-L. Giavitto](http://repmus.ircam.fr/giavitto)).
-
 - Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (co-direction with P. Esling).
 
 
 ##### Previously:
 
-- Marlon Schumacher, McGill University, Montreal, CA: [A Framework for Computer-Aided Composition of Space, Gesture, and Sound](https://hal.archives-ouvertes.fr/tel-01491794/) (co-supervision / dir.: M. Wanderley, S. Ferguson).
-
-- Charles de Paiva Santana, Université Pierre et Marie Curie, Paris / University of Campinas, Brasil. International Doctoral Program of the Research Institute for Development (IRD): [The Musical Score as an Instance: Essays in Computer-Assisted Analysis](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330294) (supervision / dir.: M. Andreatta, J. Manzolli).
-
-- Dimitri Bouche, IRCAM / STMS lab (Sorbonne Université, Paris): [Interactive compositional processes : a framework for programming and rendering musical structures](https://tel.archives-ouvertes.fr/tel-01524393/).
+- Marlon Schumacher, McGill University, Montreal, CA: [A Framework for Computer-Aided Composition of Space, Gesture, and Sound](https://hal.archives-ouvertes.fr/tel-01491794/) (co-supervision / dir.: M. Wanderley, S. Ferguson, 2016).
+- Charles de Paiva Santana, Université Pierre et Marie Curie, Paris / University of Campinas, Brasil. International Doctoral Program of the Research Institute for Development (IRD): [The Musical Score as an Instance: Essays in Computer-Assisted Analysis](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330294) (supervision / dir.: M. Andreatta, J. Manzolli, 2016).
+- Dimitri Bouche, IRCAM / STMS lab (Sorbonne Université, Paris): [Interactive compositional processes : a framework for programming and rendering musical structures](https://tel.archives-ouvertes.fr/tel-01524393/) (2016).
 
 
 <!-- Here is a [list of former students and researchers I have supervised](supervision).-->
