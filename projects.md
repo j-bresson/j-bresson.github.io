@@ -86,6 +86,13 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 </td></tr></table>
 
 <!--
+
+<table class="project">
+<tr><th> DYCI2 (2015-2018)) </th></tr>
+<tr><td>
+
+</td></tr></table>
+
 <table class="project">
 <tr><th> Spatialization Tools (2008-2019) </th></tr>
 <tr><td>
