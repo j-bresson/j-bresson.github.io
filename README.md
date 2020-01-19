@@ -119,7 +119,7 @@ As for 2020, I am also in the scientific committee of the following conferences:
 
 - [Sound and Music Computing / SMC'20](https://smc2020torino.it/uk/) Torino, Italy (_Senior Scientific Committe member_)
 - [TENOR'20](https://tenor2020.hfmt-hamburg.de/), Hamburg, Germany (_PC member_)
-- [ACM SPLASH 2020| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA (_PC member_)
+- [ACM SPLASH 2020\| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA (_PC member_)
 
 <br>
 In the past, I also coordinated a number of events and research groups or seminars, such as:
