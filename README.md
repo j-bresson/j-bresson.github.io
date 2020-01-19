@@ -31,10 +31,10 @@ In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in
 <tr><td>
 <img src="images/IMG_20191106_183156.jpg" width="200" align="right"/>
 <p>
-I am the "Tech Project coordinator" of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+I am the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
 </p>
 <p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OpenMusic/OM#.   
+In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OM#.   
 </p>
 
 <b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
@@ -74,7 +74,7 @@ Anders Vinjar is currently following-up on it, in the context of a musical resea
 #### – Publications
 
 - [List of publications](publi).
-- _[The OM Composer's Book](http://repmus.ircam.fr/openmusic/ombook)_: A series of 3 volumes about OpenMusic and its use by composers.
+- _[The OM Composer's Book](http://repmus.ircam.fr/openmusic/ombook)_: A series of 3 books about OpenMusic and its use by composers.
 - [Habilitation thesis](https://hal.archives-ouvertes.fr/tel-01525998/) [In French]: _Composition assistée par ordinateur : techniques et outils de programmation visuelle pour la création musicale_.
 
 <!-- _Computer-assisted composition: visual programming techniques and tools for musical creation_ -->
@@ -119,13 +119,14 @@ As for 2020, I am also in the scientific committee of the following conferences:
 
 - [Sound and Music Computing / SMC'20](https://smc2020torino.it/uk/) Torino, Italy (_Senior Scientific Committe member_)
 - [TENOR'20](https://tenor2020.hfmt-hamburg.de/), Hamburg, Germany (_PC member_)
+- [ACM SPLASH 2020| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA (_PC member_)
 
 <br>
 In the past, I also coordinated a number of events and research groups or seminars, such as:
 
-- [MaMuX](http://repmus.ircam.fr/mamux/): Mathematics, Music and relations to other disciplines (2011-2014, IRCAM, Paris). _8 annual half-day sessions, 80+ speakers_.
+- [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris). _8 annual half-day sessions, 80+ speakers_.
 - [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculius, Algorithmics and Languages applied to Music [FR] (2015-2018).
-- [New spaces of music notation](http://notation.afim-asso.org/) Work group [FR] (2013-2015)
+- [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
 - [MCM]() International conference on Mathematics and Computation in Music (2011, IRCAM, Paris).
 - Research workshops: [Interactivity in Music Composition and Performance](http://repmus.ircam.fr/efficace/events/workshop-cirmmt) (CIRMMT/McGill University, Montreal, 2015), [Human-Computer Interactions in Music](http://repmus.ircam.fr/efficace/events/workshop-berkeley) (CNMAT/UC Berleley, 2016), [Music Composition and Creative Interaction with Machine Learning](http://repmus.ircam.fr/paco/workshop-smc), (Sound and Music Computing, Cyprus University, 2018),...
 - etc.
