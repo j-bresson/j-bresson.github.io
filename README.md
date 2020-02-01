@@ -16,7 +16,7 @@ In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in
 
 
 <table class="project">
-<tr><th>OM# (2013-...)</th></tr>
+<tr><th>OM#</th></tr>
 <tr><td>
 <img src="images/om-sharp.png" width="200" align="right"/>
 <p>

@@ -1,5 +1,5 @@
 # Projects
-Some other / past projects I've been working on.
+Some other / past projects...
 
 <a name="om">
 <table class="project">
@@ -8,7 +8,7 @@ Some other / past projects I've been working on.
 
 <img src="images/om-patch.png" width="240" align="right"/>
 <p>
-OpenMusic was my main project while working at IRCAM. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I worked as a developer for the first few years I was there, and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
+OpenMusic was my main project while working at IRCAM. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I created and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
 </p>
 
 <p>
@@ -85,13 +85,44 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 <b>&rarr; <a href="http://repmus.ircam.fr/efficace/" target="_blank">Project pages</a></b>
 </td></tr></table>
 
+
+<table class="project">
+<tr><th>DYCI2 : Creative Dynamics of Improvised Interaction (2015-2018)</th></tr>
+<tr><td>
+
+<img src="images/om-dyci2.png" width="240" align="right"/>
+
+<p>
+<i>DYCI2 explores the Creative Dynamics of Improvised Interactions between human and artificial agents, featuring an Informed Artificial Listening scheme, a Musical Structure Discovery and Learning scheme, and a generalized Interaction / Knowledge / Decision dynamics scheme.</i>
+
+<b>&rarr; <a href="http://repmus.ircam.fr/dyci2/" target="_blank">DYCI2 poject pages</a></b>
+</p>
+
+<p>
+In line with a tradition of research and environments developed in the Music Representation team at Ircam, the <a href="http://repmus.ircam.fr/dyci2/" target="_blank">DYCI2 library</a> created by <a href="https://jeromenika.com/" target="_blank">Jérôme Nika</a> allows musicians to interact with improvising agents, adding up to its predecessors such as <a href="http://repmus.ircam.fr/omax/" target="_blank">OMax</a> the notion of scenario guidance, previously developed in the <a href="http://repmus.ircam.fr/nika/improtek" target="_blank">Improtek</a> project. 
+</p>
+
+<p>
+Together we integrated this in the OpenMusic/OM# environments, allowing for hybrid offline/ineractive processing and generation of 	musical material. 
+</p>
+
+<b>&rarr; <a href="https://github.com/DYCI2/om-dyci2/wiki/[en]" target="_blank">OM-DYCI2</a></b>
+
+
+</td></tr></table>
+
+
+
 <!--
 
 <table class="project">
-<tr><th> DYCI2 (2015-2018)) </th></tr>
+<tr><th> Quantification </th></tr>
 <tr><td>
 
+
 </td></tr></table>
+
+
 
 <table class="project">
 <tr><th> Spatialization Tools (2008-2019) </th></tr>
@@ -100,11 +131,19 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 </td></tr></table>
 
 <table class="project">
-<tr><th> Sound synthesis / OMChroma (2004-2019) </th></tr>
+<tr><th> Sound prpocessing / OMChroma (2004-2019) </th></tr>
 <tr><td>
 
 
 </td></tr></table>
+
+<table class="project">
+<tr><th> OMChroma/OMPrisma </th></tr>
+<tr><td>
+
+
+</td></tr></table>
+
 
 <table class="project">
 <tr><th> OM-Chant (2010-2012) </th></tr>
@@ -119,6 +158,16 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 
 </td></tr></table>
+
+</td></tr></table>
+
+<table class="project">
+<tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
+<tr><td>
+
+
+</td></tr></table>
+
 
 <table class="project">
 <tr><th> Musique Lab 2 (2004-2010) </th></tr>
