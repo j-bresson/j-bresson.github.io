@@ -20,10 +20,17 @@ In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in
 <tr><td>
 <img src="images/om-sharp.png" width="200" align="right"/>
 <p>
-<b>om#</b> is a computer assisted composition and visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> (see <a href="projects#om">past projects</a>), featuring a fully redesigned visual programming framework, as well as advanced tools for interactive computer assisted composition and digital signal processing.
+<b>OM#</b> is a computer assisted composition and visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> (see <a href="projects#om">past projects</a>), featuring a fully redesigned visual programming framework, as well as advanced tools for interactive computer assisted composition and digital signal processing.
+</p>
+<p>
+The environment was initially concieved as a new implementation of OpenMusic. Key features and developments were carried out during the <a href="http://repmus.ircam.fr/efficace/" target="_blank">EFFICACe</a> research project (2013-2017), while exploring interactive approaches in computer-assisted music composition processes: timeline-based interactive control of musical objects, dynamic scheduling architecture for musical rendering and computation, new interfaces for the temporal representation of compositional processes, etc.
+The "reactive" model, previously introduced as a prototype in OpenMusic, was also integrated as a native feature.
+</p>
+<p>
+After successive code-names (om7-beta/o7/...) the project was named <b>OM#</b> (om-sharp) shortly before the v1.0 release in late 2019.
 </p>
 
-<b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">om-sharp pages</a></b>
+<b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">om-sharp project page</a> (incl. downloads, documentation, etc.)</b>
 </td></tr></table>
 
 <table class="project">
@@ -34,34 +41,16 @@ In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in
 I am the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
 </p>
 <p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on Max and OM#.   
+In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on <a href="https://cycling74.com/">Max</a> and <a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a>.   
+</p>
+
+<p>
+<i>Cosmologies</i> was premiered at the <i>Ircam Live</i> concert at au Centre Pompidou, Paris on the 5/03/2020.
 </p>
 
 <b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
 
 </td></tr></table>
-
-<table class="project">
-<tr><th> PACO: Artificial Intelligence and Computer-Assisted Composition (2018-2019) </th></tr>
-<tr><td>
-
-<img src="images/om-ai.png" width="300" align="right"/>
-<p>
-PACO is a start-up funding from the CNRS "PEPS" program for an exploratory project about artificial intelligence (just like everybody else!), machine learning and computer-assisted composition.
-</p>
-<p>
-With this project our objective was to explore the possibility for composers to use AI and machine learning techniques within the framework of creative processes (and not as a substitution or complement to creativity), for the generation or transformation of musical data, or the resolution of musical problems dealing with abstract characteristics of musical structures, which are sometimes difficult to quantify and treat explicitly by classical programming techniques.
-</p>
-
-<p>
-Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, <a href="https://www.alirezafarhang.com/post/traces-of-expressivity-data-stream" target="_">Alireza Farhang</a>, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
-Anders Vinjar is currently following-up on it, in the context of a musical research residency at IRCAM (2019-2020).
-</p>
-
-<b>&rarr; <a href="http://repmus.ircam.fr/paco/home-en" target="_blank">PACO project page</a></b> 
-
-</td></tr></table>
-
 
 <br>
 
@@ -87,11 +76,13 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 -->
 
 -----
-#### – Research/PhD supervision
+#### – Research / PhD supervision
 
 - Martin Fouilleul, PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Architecture and language for distributed temporal flow management, and applications to multimedia creation_ (co-direction with [J.-L. Giavitto](http://repmus.ircam.fr/giavitto)).
-- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (co-direction with P. Esling).
 
+<!--
+- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (co-direction with P. Esling).
+-->
 
 ##### Previously:
 
@@ -115,17 +106,18 @@ I am currently in the board of the following steering committees:
 
 <br>
 
-As for 2020, I am also in the scientific committee of the following conferences:
+As for 2020, I am in the scientific committee of the following conferences:     
 
 - [Sound and Music Computing / SMC'20](https://smc2020torino.it/uk/) Torino, Italy (_Senior Scientific Committe_)
 - [TENOR'20](https://tenor2020.hfmt-hamburg.de/), Hamburg, Germany
 - [ACM SPLASH 2020 \| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA
+- [Journées d'Informatique Musicale / JIM 2020](https://jim2020.sciencesconf.org/), Strasbourg, France
 
 <br>
-In the past, I also coordinated a number of events and research groups or seminars, such as:
+In the past, I also coordinated a number of events and research groups or seminars, such as:    
 
 - [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris). _8 annual half-day sessions, 80+ speakers_.
-- [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculius, Algorithmics and Languages applied to Music [FR] (2015-2018).
+- [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculius, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
 - [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
 - [MCM]() International conference on Mathematics and Computation in Music (2011, IRCAM, Paris).
 - Research workshops: [Interactivity in Music Composition and Performance](http://repmus.ircam.fr/efficace/events/workshop-cirmmt) (CIRMMT/McGill University, Montreal, 2015), [Human-Computer Interactions in Music](http://repmus.ircam.fr/efficace/events/workshop-berkeley) (CNMAT/UC Berleley, 2016), [Music Composition and Creative Interaction with Machine Learning](http://repmus.ircam.fr/paco/workshop-smc), (Sound and Music Computing, Cyprus University, 2018),...

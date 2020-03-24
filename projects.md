@@ -32,6 +32,27 @@ While continuing to maintain and support OpenMusic, in recent years I have start
 </td></tr></table>
 
 
+<table class="project">
+<tr><th> PACO: Artificial Intelligence and Computer-Assisted Composition (2018-2019) </th></tr>
+<tr><td>
+
+<img src="images/om-ai.png" width="300" align="right"/>
+<p>
+PACO is a start-up funding from the CNRS "PEPS" program for an exploratory project about artificial intelligence (just like everybody else!), machine learning and computer-assisted composition.
+</p>
+<p>
+With this project our objective was to explore the possibility for composers to use AI and machine learning techniques within the framework of creative processes (and not as a substitution or complement to creativity), for the generation or transformation of musical data, or the resolution of musical problems dealing with abstract characteristics of musical structures, which are sometimes difficult to quantify and treat explicitly by classical programming techniques.
+</p>
+
+<p>
+Composers <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a>, <a href="https://www.alirezafarhang.com/post/traces-of-expressivity-data-stream" target="_">Alireza Farhang</a>, as well as Paul Best (software engeneering intern, co-supervised with Diemo Schwarz) were my main collaborators on this project. 
+Anders Vinjar is currently following-up on it, in the context of a musical research residency at IRCAM (2019-2020).
+</p>
+
+<b>&rarr; <a href="http://repmus.ircam.fr/paco/home-en" target="_blank">PACO project page</a></b> 
+
+</td></tr></table>
+
 
 <table class="project">
 <tr><th> Symbolist (2018) </th></tr>
