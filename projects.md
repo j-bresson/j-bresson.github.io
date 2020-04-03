@@ -133,6 +133,20 @@ Together we integrated this in the OpenMusic/OM# environments, allowing for hybr
 </td></tr></table>
 
 
+<table class="project">
+<tr><th> Sound processing / synthesis in OpenMusic</th></tr>
+
+<tr><td>
+<p>
+The work and research carried out in my PhD thesis (2004-2007) focused on the idea of integrating sound processing and stnthesis techniques in compositional processes and the OpenMusic environment.
+
+I have created a number of libraries connecting with IRCAM sound processing tools, such as <a href="https://github.com/openmusic-project/OM-SuperVP" target="_blank">OM-SuperVP</a>, <a href="https://github.com/openmusic-project/OM-pm2" target="_blank">OM-pm2</a>, or <a href="https://github.com/openmusic-project/OM-Chant" target="_blank">OM-Chant</a> (see project below).
+
+<a href="https://github.com/openmusic-project/OMChroma" target="_blank">OMChroma</a> is another project and long-lasting collaboration with composer <a href="http://brahms.ircam.fr/marco-stroppa" target="_blank">Marco Stroppa</a>, providing high-level tools and structures to control sound synthesis via <a href="https://csound.com/" target="_blank">Csound</a>.
+</p>
+</td></tr>
+</table>
+
 
 <!--
 
@@ -146,17 +160,16 @@ Together we integrated this in the OpenMusic/OM# environments, allowing for hybr
 
 
 <table class="project">
-<tr><th> Spatialization Tools (2008-2019) </th></tr>
+<tr><th> Spatialization Control (2008-2019) </th></tr>
+
+
+
 <tr><td>
 
 </td></tr></table>
 
-<table class="project">
-<tr><th> Sound prpocessing / OMChroma (2004-2019) </th></tr>
-<tr><td>
 
 
-</td></tr></table>
 
 <table class="project">
 <tr><th> OMChroma/OMPrisma </th></tr>
@@ -207,6 +220,12 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 SDIF-Edit was my first, student internship project developed when I started at IRCAM in 2003.
 It is a 3D visualizer and editor developed in OpenGL, allowing to view the contents of SDIF files (<a href="http://sdif.sourceforge.net/" target="_blank">Sound Description Interchange Format</a>, a file format used by music applications to store dan exchange sounds analysis data, synthesis parameters, etc.)
 </p>
+
+<p>
+An underlying idea was to embed sound description data in compositional processes via an integration in OpenMusic. 
+This idea was brought a few steps further years later in 2017 in the context of <a href="http://www.savannahagger.com/" target="_blank">Savannah Agger</a>'s <i>Landschaften</i> <a href="http://repmus.ircam.fr/efficace/wp/agger" target="_blank">project</a>, and in the framework of <a href="https://cac-t-u-s.github.io/om-sharp/pages/3D-viewer" target="_blank">OM# developments</a>.
+</p>
+
 <b>&rarr; <a href="https://github.com/j-bresson/SDIF-Edit" target="_blank">SDIF-Edit on GitHub</a></b>
 </td></tr></table>
 
@@ -217,6 +236,5 @@ It is a 3D visualizer and editor developed in OpenGL, allowing to view the conte
 <tr><th>  </th></tr>
 <tr><td>
 	
-
 </td></tr></table>
 -->
