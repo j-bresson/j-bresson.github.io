@@ -214,16 +214,26 @@ More recently, <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">O
 
 
 
-<!--
 <table class="project">
 <tr><th> Musique Lab 2 (2004-2010) </th></tr>
 <tr><td>
 
+<img src="images/ml2-arp.png" width="300" align="right"/>
+
+<p>
+Musique Lab 2 was a commission to Ircam by the French Ministry of Education (and my first real work contract at Ircam!). 
+The idea was to create tools for music teachers to use computer-assisted compsoition technology to run music classes, allowing them to interactively demonstrate and workshop musical concepts and compositional processes from the repertoires ranging from early to contemporary music.
+</p>
+
+<p>
+More concretely, it consisted in a single-window application developed on top of OpenMusic, including most underlying features and inbuilt musical knowledhe (+ some additional features such as the notion of tonality!), whithout the visual programming aspect.
+</p>
+
+<p>
+The application was released for Mac and Windows (it is at the origin of the first Windows port of OpenMusic, which led to the release of OM5 in 2005) and distributed to music teachers through the Ircam Forum and the Educ'Net networks. Unfortunately the project was not supported much longer after the initial releases.
+</p>
 
 </td></tr></table>
--->
-
-
 
 
 
