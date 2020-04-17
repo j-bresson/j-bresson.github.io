@@ -50,6 +50,13 @@ In this project, we are bringing together the results of recent research project
 
 <b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
 
+<b>&rarr; <a href="https://www.vertigo-starts-residencies.com/single-post/2020/04/15/Cosmologies-at-Centre-Pompidou" target="_blank">Aaron's Blog post</a></b> 
+
+<b>&rarr; <a href="https://youtu.be/RvTTgEdA0J0" target="_blank">Aaron's Interview</a></b> 
+
+<b>&rarr; <a href="https://medias.ircam.fr/embed/media/xafad3c" target="_blank">Aaron's Ircam talk</a></b> 
+
+
 </td></tr></table>
 
 <br>
