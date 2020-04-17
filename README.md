@@ -1,12 +1,12 @@
 
 
-I am a computer music researcher and software engineer. This page contains links and resources related to some recent projects. 
+I am a computer music researcher and software engineer. This page contains links and resources related to some of my projects. 
 
-From 2003 to 2019 I have worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I have been the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting it to digital sound processing, spatialization, or real-time interaction systems. 
+From 2003 to 2019 I have worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I was the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting it to digital sound processing, spatialization, and to real-time interaction systems. 
 
 I obtained my PhD from the Université Pierre et Marie Curie in 2007, and my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017.
 In 2016 I was at [CNMAT](http://www.cnmat.berkeley.edu/) / UC Berkeley with a Fulbright [research scholarship](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). 
-In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe, Germany. 
+In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe. 
 
 In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in Berlin and am now working there as a software engineer.
 
@@ -123,7 +123,7 @@ As for 2020, I am in the scientific committee of the following conferences:
 <br>
 In the past, I also coordinated a number of events and research groups or seminars, such as:    
 
-- [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris). _8 annual half-day sessions, 80+ speakers_.
+- [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris — 8 annual half-day sessions, 80+ speakers).
 - [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculius, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
 - [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
 - [MCM]() International conference on Mathematics and Computation in Music (2011, IRCAM, Paris).
