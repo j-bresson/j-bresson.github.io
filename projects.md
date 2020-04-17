@@ -86,26 +86,6 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 </td></tr></table>
 
 
-<table class="project">
-<tr><th> EFFICACe: Interactivity in Computer-Assisted Composition Processes (2013-2017) </th></tr>
-<tr><td>
-
-<img src="images/trajectoires.jpg" width="240" align="right"/>
-<p>
-EFFICACe was an exploratory research project that I coordinated at Ircam, funded by the French <a href="https://anr.fr/Project-ANR-13-JS02-0004" target="_blank"> National research Agency</a>. 
-</p>
-<p>
-The project explored the relations between computation, time and interactions in computer-aided music composition, using OpenMusic and other technologies developed at IRCAM and at <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a>. Considering computer-aided composition out of its traditional "offline" paradigm, we tried to integrate compositional processes in structured interactions with their context: the interactions taking place during executions or performances, or at the early compositional stages (in the processes that lead to the creation of musical material). In this perspective we have studied reactive approaches for computer-aided composition, the notion of dynamic time structures in computation and music, rhythmic and symbolic time structures, and new modalities for the interactive control, visualisation and execution of sound synthesis and spatialization processes. 
-</p>
-<p>
-I have worked on this project with <a href="" target="_blank">Dimitri Bouche</a> (PhD student), <a href="http://recherche.enac.fr/~jeremie.garcia/" target="_blank">Jérémie Garcia</a> (post-doctoral researcher), <a href="https://www.stms-lab.fr/person/thibaut-carpentier/" target="_blank">Thibaut Carpentier</a> (CNRS/Ircam), <a href="http://imtr.ircam.fr/imtr/Diemo_Schwarz" target="_blank">Diemo Schwarz</a> (Ircam) and <a href="https://jacquema.gitlabpages.inria.fr/" target="_blank">Florent Jacquemard</a> (Inria/Ircam). 
-
-EFFICACe research also led to most of the novel features of the <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> environment.
-</p>
-
-<b>&rarr; <a href="http://repmus.ircam.fr/efficace/" target="_blank">Project pages</a></b>
-</td></tr></table>
-
 
 <table class="project">
 <tr><th>DYCI2 : Creative Dynamics of Improvised Interaction (2015-2018)</th></tr>
@@ -129,6 +109,42 @@ Together we integrated this in the OpenMusic/OM# environments, allowing for hybr
 
 <b>&rarr; <a href="https://github.com/DYCI2/om-dyci2/wiki/[en]" target="_blank">OM-DYCI2</a></b>
 
+</td></tr></table>
+
+
+
+<table class="project">
+<tr><th> EFFICACe: Interactivity in Computer-Assisted Composition Processes (2013-2017) </th></tr>
+<tr><td>
+
+<img src="images/trajectoires.jpg" width="240" align="right"/>
+<p>
+EFFICACe was an exploratory research project that I coordinated at Ircam, funded by the French <a href="https://anr.fr/Project-ANR-13-JS02-0004" target="_blank"> National research Agency</a>. 
+</p>
+<p>
+The project explored the relations between computation, time and interactions in computer-aided music composition, using OpenMusic and other technologies developed at IRCAM and at <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a>. Considering computer-aided composition out of its traditional "offline" paradigm, we tried to integrate compositional processes in structured interactions with their context: the interactions taking place during executions or performances, or at the early compositional stages (in the processes that lead to the creation of musical material). In this perspective we have studied reactive approaches for computer-aided composition, the notion of dynamic time structures in computation and music, rhythmic and symbolic time structures, and new modalities for the interactive control, visualisation and execution of sound synthesis and spatialization processes. 
+</p>
+<p>
+I have worked on this project together with <a href="" target="_blank">Dimitri Bouche</a> (PhD student), <a href="http://recherche.enac.fr/~jeremie.garcia/" target="_blank">Jérémie Garcia</a> (post-doctoral researcher), <a href="https://www.stms-lab.fr/person/thibaut-carpentier/" target="_blank">Thibaut Carpentier</a> (CNRS/Ircam), <a href="http://imtr.ircam.fr/imtr/Diemo_Schwarz" target="_blank">Diemo Schwarz</a> (Ircam) and <a href="https://jacquema.gitlabpages.inria.fr/" target="_blank">Florent Jacquemard</a> (Inria/Ircam). 
+
+EFFICACe research also led to most of the novel features of the <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> environment.
+</p>
+
+<b>&rarr; <a href="http://repmus.ircam.fr/efficace/" target="_blank">Project pages</a></b>
+</td></tr></table>
+
+
+
+
+<table class="project">
+<tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
+<tr><td>
+
+<img src="images/om-orchidee-2.jpg" width="240" align="right"/>
+
+During the SampleOrchestrator project (ANR-06-RIAM-0027) I created an client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
+
+<b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-00683471" target="_blank">CMJ Paper</a></b> 
 
 </td></tr></table>
 
@@ -145,19 +161,39 @@ I have created a number of libraries connecting with IRCAM sound processing tool
 <a href="https://github.com/openmusic-project/OMChroma" target="_blank">OMChroma</a> is another project and long-lasting collaboration with composer <a href="http://brahms.ircam.fr/marco-stroppa" target="_blank">Marco Stroppa</a>, providing high-level tools and structures to control sound synthesis via <a href="https://csound.com/" target="_blank">Csound</a>.
 </p>
 </td></tr>
+
 </table>
 
 
-<!--
 
 <table class="project">
 <tr><th> Spatialization Control (2008-2019) </th></tr>
 
-
 <tr><td>
 
+<img src="images/spat-sdif-player-om-max.png" width="240" align="right"/>
+
+<p>
+The next step after sound synthesis was to integrate sound spatialization in compositional processes.
+</p>
+
+<p>
+I created <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat 2</a>: a library for the generation of sound spatialization data and 2D/3D trajectories, connected to Ircal Spat through an offline renderer. 
+OM-Spat also used <a href="http://sdif.sourceforge.net/" target="_blank">SDIF</a> files for encoding and storage of trajectories. 
+<a href="https://github.com/j-bresson/Spat-SDIF-Player" target="_blank">Spat-SDIF-Player</a> is another tool created in Max for real-time OSC streaming of SDIF-encoded trajectories.
+</p>
+<p>
+In the same period I collaborated with <a href="http://www.music.mcgill.ca/marlonschumacher/" target="_blank">Marlon Schumacher</a> to the development of <a href="https://www-archive.idmil.org/projects/software/omprisma" target="_blank">OMPrisma</a>. 
+OMPrisma extends <a href="https://github.com/openmusic-project/OMChroma" target="_blank">OMChroma</a>'s paradigm and <a href="https://csound.com/" target="_blank">Csound</a>-based techiques for the high-level of sound synthesis, allowing to merge Csoudn audio synthesis, processing and spatialization instruments in a comprehensive "spatial sound synthesis" framework (see for instance <a href="https://hal.archives-ouvertes.fr/hal-00683469" target="_blank">this paper</a>).
+</p>
+<p>
+More recently, <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> developements came along with a powerful <a href="https://github.com/cac-t-u-s/spat" target="_blank">new integration of Spat</a>, embedding both audio processing units and GUI controllers.  
+</p>
 </td></tr></table>
 
+
+
+<!--
 
 <table class="project">
 <tr><th> OM-Chant (2010-2012) </th></tr>
@@ -169,6 +205,9 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 </td></tr></table>
 
 
+
+
+
 <table class="project">
 <tr><th> Musique Lab 2 (2004-2010) </th></tr>
 <tr><td>
@@ -178,17 +217,7 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 
 -->
 
-<table class="project">
-<tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
-<tr><td>
 
-<img src="images/om-orchidee-2.jpg" width="240" align="right"/>
-
-During the SampleOrchestrator project (ANR-06-RIAM-0027) I created an client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
-
-<b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-00683471" target="_blank">CMJ Paper</a></b> 
-
-</td></tr></table>
 
 
 
