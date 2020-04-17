@@ -58,7 +58,7 @@ Anders Vinjar is currently following-up on it, in the context of a musical resea
 <tr><th> Symbolist (2018) </th></tr>
 <tr><td>
 
-<img src="images/symbolist.png" width="240" align="right"/>
+<img src="images/symbolist.png" width="300" align="right"/>
 
 <p>
 <a href="https://github.com/ramagottfried/symbolist" target="_blank">Symbolist</a> is a collaboration with composer <a href="http://www.ramagottfried.com/" target="_blank">Rama Gottfried</a>, started in 2018 during his musical research residency at IRCAM.
@@ -78,7 +78,7 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 <tr><th> o.OM: Experiments with CNMAT's odot library (2016) </th></tr>
 <tr><td>
 
-<img src="images/odot-data-stream-0.png" width="240" align="right"/>
+<img src="images/odot-data-stream-0.png" width="300" align="right"/>
 <p>I was at UC Berkeley in 2016 in a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright Research scholarship</a>, where I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the <i>odot</i> library in OM.</p>
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-01353794" target="_blank">FARM'16 Paper</a></b> 
@@ -91,7 +91,7 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 <tr><th>DYCI2 : Creative Dynamics of Improvised Interaction (2015-2018)</th></tr>
 <tr><td>
 
-<img src="images/om-dyci2.png" width="240" align="right"/>
+<img src="images/om-dyci2.png" width="300" align="right"/>
 
 <p>
 <i>DYCI2 explores the Creative Dynamics of Improvised Interactions between human and artificial agents, featuring an Informed Artificial Listening scheme, a Musical Structure Discovery and Learning scheme, and a generalized Interaction / Knowledge / Decision dynamics scheme.</i>
@@ -117,7 +117,7 @@ Together we integrated this in the OpenMusic/OM# environments, allowing for hybr
 <tr><th> EFFICACe: Interactivity in Computer-Assisted Composition Processes (2013-2017) </th></tr>
 <tr><td>
 
-<img src="images/trajectoires.jpg" width="240" align="right"/>
+<img src="images/trajectoires.jpg" width="300" align="right"/>
 <p>
 EFFICACe was an exploratory research project that I coordinated at Ircam, funded by the French <a href="https://anr.fr/Project-ANR-13-JS02-0004" target="_blank"> National research Agency</a>. 
 </p>
@@ -140,7 +140,7 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 <tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
 <tr><td>
 
-<img src="images/om-orchidee-2.jpg" width="240" align="right"/>
+<img src="images/om-orchidee-2.jpg" width="300" align="right"/>
 
 During the SampleOrchestrator project (ANR-06-RIAM-0027) I created an client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
 
@@ -170,7 +170,7 @@ I have created a number of libraries connecting with IRCAM sound processing tool
 <tr><th> OM-Chant (2010-2012) </th></tr>
 <tr><td>
 
-<img src="images/sonagram.png" width="240" align="right"/>
+<img src="images/sonagram.png" width="300" align="right"/>
 
 <p>
  <a href="https://github.com/openmusic-project/OM-Chant" target="_blank">OM-Chant</a> is a library for the control of Ircam's Chant synthesizer in OpenMusic. 
@@ -192,7 +192,7 @@ Marco Stroppa's opera <a href="https://www.opera-comique.com/fr/saisons/saison-2
 
 <tr><td>
 
-<img src="images/spat-sdif-player-om-max.png" width="240" align="right"/>
+<img src="images/spat-sdif-player-om-max.png" width="300" align="right"/>
 
 <p>
 The next step after sound synthesis was to integrate sound spatialization in compositional processes.
@@ -230,7 +230,7 @@ More recently, <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">O
 <table class="project">
 <tr><th> SDIF-Edit (2003-2004) </th></tr>
 <tr><td>
-<img src="images/sdifedit.jpg" width="240" align="right"/>
+<img src="images/sdifedit.jpg" width="300" align="right"/>
 <p>
 SDIF-Edit was my first, student internship project developed when I started at IRCAM in 2003.
 It is a 3D visualizer and editor developed in OpenGL, allowing to view the contents of SDIF files (<a href="http://sdif.sourceforge.net/" target="_blank">Sound Description Interchange Format</a>, a file format used by music applications to store dan exchange sounds analysis data, synthesis parameters, etc.)
