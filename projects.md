@@ -151,30 +151,10 @@ I have created a number of libraries connecting with IRCAM sound processing tool
 <!--
 
 <table class="project">
-<tr><th> Quantification </th></tr>
-<tr><td>
-
-
-</td></tr></table>
-
-
-
-<table class="project">
 <tr><th> Spatialization Control (2008-2019) </th></tr>
 
 
-
 <tr><td>
-
-</td></tr></table>
-
-
-
-
-<table class="project">
-<tr><th> OMChroma/OMPrisma </th></tr>
-<tr><td>
-
 
 </td></tr></table>
 
@@ -183,22 +163,8 @@ I have created a number of libraries connecting with IRCAM sound processing tool
 <tr><th> OM-Chant (2010-2012) </th></tr>
 <tr><td>
 
-
-</td></tr></table>
-
-<table class="project">
-<tr><th> Re Orso (2012) </th></tr>
-<tr><td>
+Re Orso (2012)
 https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
-
-</td></tr></table>
-
-</td></tr></table>
-
-<table class="project">
-<tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
-<tr><td>
-
 
 </td></tr></table>
 
@@ -209,7 +175,21 @@ https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
 
 
 </td></tr></table>
+
 -->
+
+<table class="project">
+<tr><th> SampleOrchestrator: OM-Orchidée (2010-2012) </th></tr>
+<tr><td>
+
+<img src="images/om-orchidee-2.jpg" width="240" align="right"/>
+
+During the SampleOrchestrator project (ANR-06-RIAM-0027) I created an client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
+
+<b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-00683471" target="_blank">CMJ Paper</a></b> 
+
+</td></tr></table>
+
 
 
 <table class="project">
