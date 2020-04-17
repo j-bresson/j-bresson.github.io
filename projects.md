@@ -167,6 +167,27 @@ I have created a number of libraries connecting with IRCAM sound processing tool
 
 
 <table class="project">
+<tr><th> OM-Chant (2010-2012) </th></tr>
+<tr><td>
+
+<img src="images/sonagram.png" width="240" align="right"/>
+
+<p>
+ <a href="https://github.com/openmusic-project/OM-Chant" target="_blank">OM-Chant</a> is a library for the control of Ircam's Chant synthesizer in OpenMusic. 
+Developed in the early 80s based on formant-wave functions synthesis (FOF), Chant remains even today a quite unique tool for the synthesis of "voiced" sounds (sung vowels) and its <i>continuous</i> control.
+</p>
+
+<p>
+Marco Stroppa's opera <a href="https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso" target="_blank">Re Orso</a> (2012) was an important moment in this project development and the first important application of OM-Chant in such a wide production.
+</p>
+
+<b>&rarr; <a href="https://github.com/openmusic-project/OM-Chant/wiki" target="_blank">OM-Chant wiki</a></b> 
+
+</td></tr></table>
+
+
+
+<table class="project">
 <tr><th> Spatialization Control (2008-2019) </th></tr>
 
 <tr><td>
@@ -194,27 +215,12 @@ More recently, <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">O
 
 
 <!--
-
-<table class="project">
-<tr><th> OM-Chant (2010-2012) </th></tr>
-<tr><td>
-
-Re Orso (2012)
-https://www.opera-comique.com/fr/saisons/saison-2011-2012/mai/re-orso
-
-</td></tr></table>
-
-
-
-
-
 <table class="project">
 <tr><th> Musique Lab 2 (2004-2010) </th></tr>
 <tr><td>
 
 
 </td></tr></table>
-
 -->
 
 
