@@ -199,7 +199,7 @@ The next step after sound synthesis was to integrate sound spatialization in com
 </p>
 
 <p>
-I created <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat 2</a>: a library for the generation of sound spatialization data and 2D/3D trajectories, connected to Ircal Spat through an offline renderer. 
+I created <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat 2</a>: a library for the generation of sound spatialization data and 2D/3D trajectories, connected to an offline renderer made with the Ircam Spatialisateur. 
 OM-Spat also used <a href="http://sdif.sourceforge.net/" target="_blank">SDIF</a> files for encoding and storage of trajectories. 
 <a href="https://github.com/j-bresson/Spat-SDIF-Player" target="_blank">Spat-SDIF-Player</a> is another tool created in Max for real-time OSC streaming of SDIF-encoded trajectories.
 </p>
