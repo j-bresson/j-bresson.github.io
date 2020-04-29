@@ -8,15 +8,15 @@ Some other / past projects...
 
 <img src="images/om-patch.png" width="240" align="right"/>
 <p>
-OpenMusic was my main project while working at IRCAM. This visual programming language based on Lisp was initially developed at Ircam by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I created and released the first multi-platform (Mac/Windows) version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a>) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
+OpenMusic was the main project I worked on when I was at IRCAM. This visual programming language based on Lisp was initially developed by <a href="https://www.stms-lab.fr/person/carlos-agon-amado/" target="_blank">Carlos Agon</a> and <a href="https://www.stms-lab.fr/person/gerard-assayag/" target="_blank">Gérard Assayag</a> while I was still in the playgrounds. I created and released the first multi-platform version of the environment (<a href="https://hal.archives-ouvertes.fr/hal-01161332" target="_blank">OM5</a> for Mac/Windows) in 2005. OM6 was then released just a few years later, in 2008. It is still the version that is used today ! In 2012 I started to collaborate with <a href="https://www.avinjar.no/" target="_">Anders Vinjar</a> with the support of the Norwegian centers BEK and Notam, on a <a href="https://hal.archives-ouvertes.fr/hal-01075235" target="_">Linux version</a> that is now also available.
 </p>
 
 <p>
-OpenMusic has grown to be a reference environment for computer-assisted music composition, today used, and taught by <a href="http://repmus.ircam.fr/openmusic/ombook" target="_">many composers</a> in many institutions worldwide.    
+OpenMusic has grown to be a reference environment for computer-assisted music composition. It is today used and taught by <a href="http://repmus.ircam.fr/openmusic/ombook" target="_">many composers</a> in many institutions worldwide.     
 </p>
 
 <p>
-While continuing to maintain and support OpenMusic, in recent years I have started working on a new implementation of the environment as an outcome for several research projects, and I have progressively focused on what has now become <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a>. 
+While continuing to maintain and support OpenMusic, in recent years I started a new implementation of the environment as a context and outcome andfor several research projects, and I have progressively focused on what has now become <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a>. 
 </p>
 
 <h4>Links:</h4>
