@@ -3,7 +3,7 @@ Some other / past projects...
 
 <a name="om">
 <table class="project">
-<tr><th>OpenMusic (2003-...)</th></tr>
+<tr><th>OpenMusic (2003-2019)</th></tr>
 <tr><td>
 
 <img src="images/om-patch.png" width="240" align="right"/>
@@ -28,6 +28,32 @@ While continuing to maintain and support OpenMusic, in recent years I started a 
 	<a href="https://forum.ircam.fr/collections/detail/om-librairies/" target="_blank">IRCAM Forum Collection</a> (with some other external libraries)
 </li>
 </ul>
+
+</td></tr></table>
+
+
+<table class="project">
+<tr><th> Cosmologies of the Concert Grand Piano (2019-2020)</th></tr>
+<tr><td>
+<img src="images/IMG_20191106_183156.jpg" width="200" align="right"/>
+<p>
+I am the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+</p>
+<p>
+In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on <a href="https://cycling74.com/">Max</a> and <a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a>.   
+</p>
+
+<p>
+<i>Cosmologies</i> was premiered at the <i>Ircam Live</i> concert at au Centre Pompidou, Paris on the 5/03/2020.
+</p>
+
+<b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
+
+<b>&rarr; <a href="https://www.vertigo-starts-residencies.com/single-post/2020/04/15/Cosmologies-at-Centre-Pompidou" target="_blank">Aaron's Blog post</a></b> 
+
+<b>&rarr; <a href="https://youtu.be/RvTTgEdA0J0" target="_blank">Aaron's Interview</a></b> 
+
+<b>&rarr; <a href="https://medias.ircam.fr/embed/media/xafad3c" target="_blank">Aaron's Ircam talk</a></b> 
 
 </td></tr></table>
 

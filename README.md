@@ -2,13 +2,13 @@
 
 I am a computer music researcher and software engineer. This page contains links and resources related to some of my projects. 
 
-From 2003 to 2019 I have worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I was the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting it to digital sound processing, spatialization, and to real-time interaction systems. 
+From 2003 to 2019 I worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I was the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting this environment to digital sound processing, spatialization, and real-time interaction systems. 
 
 I obtained my PhD from the Université Pierre et Marie Curie in 2007, and my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017.
 In 2016 I was at [CNMAT](http://www.cnmat.berkeley.edu/) / UC Berkeley with a Fulbright [research scholarship](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). 
 In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe. 
 
-In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> in Berlin and am now working there as a software engineer.
+In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> as a software engineer.
 
 -----
 
@@ -27,37 +27,12 @@ The environment was initially concieved as a new implementation of OpenMusic. Ke
 The "reactive" model, previously introduced as a prototype in OpenMusic, was also integrated as a native feature.
 </p>
 <p>
-After successive code-names (om7-beta/o7/...) the project was named <b>OM#</b> (om-sharp) shortly before the v1.0 release in late 2019.
+After successive code-names (om7-beta/o7/...) the project was named <b>OM#</b> (om-sharp) shortly before the v1.0 release in the end of 2019.
 </p>
 
 <b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">om-sharp project page</a> (incl. downloads, documentation, etc.)</b>
 </td></tr></table>
 
-<table class="project">
-<tr><th> Cosmologies of the Concert Grand Piano (2019-2020)</th></tr>
-<tr><td>
-<img src="images/IMG_20191106_183156.jpg" width="200" align="right"/>
-<p>
-I am the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
-</p>
-<p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on <a href="https://cycling74.com/">Max</a> and <a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a>.   
-</p>
-
-<p>
-<i>Cosmologies</i> was premiered at the <i>Ircam Live</i> concert at au Centre Pompidou, Paris on the 5/03/2020.
-</p>
-
-<b>&rarr; <a href="https://vertigo.starts.eu/calls/starts-residencies-call-3/residencies/cosmologies-of-the-concert-grand-piano/detail/" target="_blank">S+T+ARTS project page</a></b> 
-
-<b>&rarr; <a href="https://www.vertigo-starts-residencies.com/single-post/2020/04/15/Cosmologies-at-Centre-Pompidou" target="_blank">Aaron's Blog post</a></b> 
-
-<b>&rarr; <a href="https://youtu.be/RvTTgEdA0J0" target="_blank">Aaron's Interview</a></b> 
-
-<b>&rarr; <a href="https://medias.ircam.fr/embed/media/xafad3c" target="_blank">Aaron's Ircam talk</a></b> 
-
-
-</td></tr></table>
 
 <br>
 
@@ -91,7 +66,7 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 - Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (co-direction with P. Esling).
 -->
 
-##### Previously:
+##### Previously (PhDs):
 
 - Marlon Schumacher, McGill University, Montreal, CA: [A Framework for Computer-Aided Composition of Space, Gesture, and Sound](https://hal.archives-ouvertes.fr/tel-01491794/) (co-supervision / dir.: M. Wanderley, S. Ferguson, 2016).
 - Charles de Paiva Santana, Université Pierre et Marie Curie, Paris / University of Campinas, Brasil. International Doctoral Program of the Research Institute for Development (IRD): [The Musical Score as an Instance: Essays in Computer-Assisted Analysis](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330294) (supervision / dir.: M. Andreatta, J. Manzolli, 2016).
@@ -105,7 +80,7 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 
 #### – Community 
 
-I am currently in the board of the following steering committees:
+I am currently in the steering committees of:
 
 - [TENOR](https://www.tenor-conference.org) Internation Conference on Technologies for Music Notation and Representation (_General Chair_).
 - [FARM](https://functional-art.org): ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
@@ -124,7 +99,7 @@ As for 2020, I am in the scientific committee of the following conferences:
 In the past, I also coordinated a number of events and research groups or seminars, such as:    
 
 - [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris — 8 annual half-day sessions, 80+ speakers).
-- [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculius, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
+- [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculus, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
 - [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
 - [MCM]() International conference on Mathematics and Computation in Music (2011, IRCAM, Paris).
 - Research workshops: [Interactivity in Music Composition and Performance](http://repmus.ircam.fr/efficace/events/workshop-cirmmt) (CIRMMT/McGill University, Montreal, 2015), [Human-Computer Interactions in Music](http://repmus.ircam.fr/efficace/events/workshop-berkeley) (CNMAT/UC Berleley, 2016), [Music Composition and Creative Interaction with Machine Learning](http://repmus.ircam.fr/paco/workshop-smc), (Sound and Music Computing, Cyprus University, 2018),...
