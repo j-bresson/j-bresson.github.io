@@ -16,7 +16,7 @@ OpenMusic has grown to be a reference environment for computer-assisted music co
 </p>
 
 <p>
-While continuing to maintain and support OpenMusic, in recent years I started a new implementation of the environment as a context and outcome andfor several research projects, and I have progressively focused on what has now become <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a>. 
+While continuing to maintain and support OpenMusic, in recent years I started a new implementation of the environment as a context and outcome of research projects, and progressively focused on what has now become <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a>. 
 </p>
 
 <h4>Links:</h4>
@@ -37,10 +37,10 @@ While continuing to maintain and support OpenMusic, in recent years I started a 
 <tr><td>
 <img src="images/IMG_20191106_183156.jpg" width="200" align="right"/>
 <p>
-I am the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
+I was the Technical Project coordinator of <a href="https://aaroneinbond.wordpress.com/" target="_blank">Aaron Einbond</a>'s Vertigo S+T+ARTS residency <i>Cosmologies of the Concert Grand Piano</i>.
 </p>
 <p>
-In this project, we are bringing together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on <a href="https://cycling74.com/">Max</a> and <a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a>.   
+In this project, we brought together the results of recent research projects on granular/concatenative synthesis, spatialization (and a little bit of machine learning), in order to implement a model of spatial synthesis based of 3D-radiation patterns of acoustic instruments, running on <a href="https://cycling74.com/">Max</a> and <a href="https://cac-t-u-s.github.io/om-sharp/">OM#</a>.   
 </p>
 
 <p>
@@ -168,7 +168,7 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 
 <img src="images/om-orchidee-2.jpg" width="300" align="right"/>
 
-During the SampleOrchestrator project (ANR-06-RIAM-0027) I created an client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
+During the SampleOrchestrator project (ANR-06-RIAM-0027) I created (with <a href="https://www.gregoirecarpentier.net/" target="_blank">Grégoire Carpentier</a>) a client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-00683471" target="_blank">CMJ Paper</a></b> 
 

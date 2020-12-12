@@ -1,18 +1,18 @@
 
 
-I am a computer music researcher and software engineer. This page contains links and resources related to some of my projects. 
+I am a computer music researcher and software engineer: this page is a hub for links and resources related to some present and past activity. 
 
-From 2003 to 2019 I worked at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I was the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic project</a> during this time, and particularly worked towards connecting this environment to digital sound processing, spatialization, and real-time interaction systems. 
+I am currently working at <a href="http://www.ableton.com" target="_blank">Ableton</a>, as a software engineer on the company's flagship software, <a href="https://www.ableton.com/en/live/" target="_blank">Live</a>.
+Before that — from 2003 to 2019 — I was at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus area was computer-aided music composition and domain-specific (visual) programming: I was the developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> project, and connected this environment to digital sound processing, spatialization, and real-time interaction systems (see <a href="projects#om">the projects page</a>). 
 
 I obtained my PhD from the Université Pierre et Marie Curie in 2007, and my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017.
 In 2016 I was at [CNMAT](http://www.cnmat.berkeley.edu/) / UC Berkeley with a Fulbright [research scholarship](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition). 
 In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwissenschaft und Musikinformatik](http://www.hfm-karlsruhe.de/imwi/index.htm) of the Hochschule für Musik in Karlsruhe. 
 
-In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> as a software engineer.
 
 -----
 
-#### – Ongoing projects
+#### – Current projects
 
 
 <table class="project">
@@ -23,7 +23,7 @@ In 2020 I joined <a href="http://www.ableton.com" target="_blank">Ableton</a> as
 <b>OM#</b> is a computer assisted composition and visual programming environment derived from <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> (see <a href="projects#om">past projects</a>), featuring a fully redesigned visual programming framework, as well as advanced tools for interactive computer assisted composition and digital signal processing.
 </p>
 <p>
-The environment was initially concieved as a new implementation of OpenMusic. Key features and developments were carried out during the <a href="http://repmus.ircam.fr/efficace/" target="_blank">EFFICACe</a> research project (2013-2017), while exploring interactive approaches in computer-assisted music composition processes: timeline-based interactive control of musical objects, dynamic scheduling architecture for musical rendering and computation, new interfaces for the temporal representation of compositional processes, etc.
+The environment was initially concieved as a new implementation of OpenMusic. Key features and developments were carried out during the <a href="http://repmus.ircam.fr/efficace/" target="_blank">EFFICACe</a> research project (2013-2017), while exploring interactive approaches in computer-assisted music composition processes: timeline-based interactive control of musical objects, dynamic scheduling architecture for musical rendering and computation, new interfaces for the temporal representation of compositional processes.
 The "reactive" model, previously introduced as a prototype in OpenMusic, was also integrated as a native feature.
 </p>
 <p>
