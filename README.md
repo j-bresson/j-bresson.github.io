@@ -88,12 +88,12 @@ I am currently in the steering committees of:
 
 <br>
 
-As for 2020, I am in the scientific committee of the following conferences:     
+As for 2020-2021, I am in the scientific committee of the following conferences:     
 
-- [Sound and Music Computing / SMC'20](https://smc2020torino.it/uk/) Torino, Italy (_Senior Scientific Committe_)
-- [TENOR'20](https://tenor2020.hfmt-hamburg.de/), Hamburg, Germany
-- [ACM SPLASH 2020 \| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA
-- [Journées d'Informatique Musicale / JIM 2020](https://jim2020.sciencesconf.org/), Strasbourg, France
+- Sound and Music Computing: [SMC'20](https://smc2020torino.it/uk/) / [SMC'21](https://smc2021conference.org/), Torino, Italy \| Online event (_Senior Scientific Committe_).
+- [TENOR'20 / TENOR'21](https://tenor2021.hfmt-hamburg.de/), Hamburg, Germany.
+- [ACM SPLASH 2020 \| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA \| Online event.
+- [Journées d'Informatique Musicale / JIM 2020](https://jim2020.sciencesconf.org/), Strasbourg, France \| Online event.
 
 <br>
 In the past, I also coordinated a number of events and research groups or seminars, such as:    
