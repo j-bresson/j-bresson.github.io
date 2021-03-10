@@ -76,23 +76,26 @@ I am currently in the steering committees of:
 
 <br>
 
-As for 2020-2021, I am in the scientific committee of the following conferences:     
+As for 2020-2021, I am in the scientific committee of:     
 
-- [FARM 2021](https://functional-art.org/2021/), 9th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design \| Online event.
-- Sound and Music Computing: [SMC'20](https://smc2020torino.it/uk/) / [SMC'21](https://smc2021conference.org/), Torino, Italy \| Online event (_Senior Scientific Committe_).
-- [TENOR'20 / TENOR'21](https://tenor2021.hfmt-hamburg.de/), Hamburg, Germany.
-- [ACM SPLASH 2020 \| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA \| Online event.
-- [Journées d'Informatique Musicale / JIM 2020](https://jim2020.sciencesconf.org/), Strasbourg, France \| Online event.
+- [FARM 2021](https://functional-art.org/2021/), 9th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design \| Online.
+- Sound and Music Computing: [SMC'20](https://smc2020torino.it/uk/) / [SMC'21](https://smc2021conference.org/), Torino, Italy \| Online (_Senior Scientific Committe_).
+- [TENOR 2020/2021](https://tenor2021.hfmt-hamburg.de/), Hamburg, Germany.
+- [ACM SPLASH 2020 \| Onward! Essays](https://2020.splashcon.org/track/splash-2020-Onward-Essays), Chicago, USA \| Online.
+- Journées d'Informatique Musicale: [JIM 2020](https://jim2020.sciencesconf.org/) / [JIM 2021](https://jim2021.sciencesconf.org/) \| Online.
 
 <br>
-In the past, I also coordinated a number of events and research groups or seminars, such as:    
+I also coordinated a number of past events and research groups or seminars, such as:    
 
 - [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris — 8 annual half-day sessions, 80+ speakers).
 - [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculus, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
 - [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
 - [MCM]() International conference on Mathematics and Computation in Music (2011, IRCAM, Paris).
-- Research workshops: [Interactivity in Music Composition and Performance](http://repmus.ircam.fr/efficace/events/workshop-cirmmt) (CIRMMT/McGill University, Montreal, 2015), [Human-Computer Interactions in Music](http://repmus.ircam.fr/efficace/events/workshop-berkeley) (CNMAT/UC Berleley, 2016), [Music Composition and Creative Interaction with Machine Learning](http://repmus.ircam.fr/paco/workshop-smc), (Sound and Music Computing, Cyprus University, 2018),...
-- etc.
+
+- Research workshops: 
+  - [Interactivity in Music Composition and Performance](http://repmus.ircam.fr/efficace/events/workshop-cirmmt) (CIRMMT / McGill University, Montreal, Canada 2015)
+  - [Human-Computer Interactions in Music](http://repmus.ircam.fr/efficace/events/workshop-berkeley) (CNMAT / UC Berkeley, USA 2016)
+  - [Music Composition and Creative Interaction with Machine Learning](http://repmus.ircam.fr/paco/workshop-smc) (Sound and Music Computing, Limassol, Cyprus 2018)
 
 
 -----
