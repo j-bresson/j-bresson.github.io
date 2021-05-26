@@ -69,15 +69,16 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 
 #### Community 
 
-I am currently in the steering committees of:
+[TENOR (Internation Conference on Technologies for Music Notation and Representation)](https://www.tenor-conference.org)     
+-- Founding member (2015) and general chair (2018-2021) of the conference steering committee.
 
-- [TENOR](https://www.tenor-conference.org) Internation Conference on Technologies for Music Notation and Representation (_General Chair_).
+
+I am also currently in the steering committees of:
 - [FARM](https://functional-art.org): ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
 - [AFIM](http://afim-asso.org) : French Computer Music Association.
 
 <br>
-
-As for 2020-2021, I am in the scientific committee of:     
+As for 2020-2021, I am in the scientific committee of:
 
 - [FARM 2021](https://functional-art.org/2021/), 9th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design \| Online.
 - Sound and Music Computing: [SMC'20](https://smc2020torino.it/uk/) / [SMC'21](https://smc2021conference.org/), Torino, Italy \| Online (_Senior Scientific Committe_).
@@ -86,7 +87,7 @@ As for 2020-2021, I am in the scientific committee of:
 - Journées d'Informatique Musicale: [JIM 2020](https://jim2020.sciencesconf.org/) / [JIM 2021](https://jim2021.sciencesconf.org/) \| Online.
 
 <br>
-I was the coordinator of teh following events, research groups or seminars:    
+I was the coordinator of the following events, research groups or seminars:    
 
 - [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris — 8 annual half-day sessions, 80+ speakers).
 - [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculus, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
