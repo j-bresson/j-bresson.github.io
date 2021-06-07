@@ -112,7 +112,7 @@ I was the coordinator of the following events, research groups or seminars:
 
 
 <!--
-- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (co-direction with P. Esling).
+- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (supervised by P. Esling).
 -->
 
 ###### Previously:
@@ -122,6 +122,5 @@ I was the coordinator of the following events, research groups or seminars:
 - Dimitri Bouche, PhD IRCAM / STMS lab (Sorbonne Université, Paris): [Interactive compositional processes : a framework for programming and rendering musical structures](https://tel.archives-ouvertes.fr/tel-01524393/) (2016).
 
 
-<!-- Here is a [list of former students and researchers I have supervised](supervision).-->
 
 

@@ -105,7 +105,7 @@ Rama is now continuing this project at the Hochschule Für Musik in Hamburg.
 <tr><td>
 
 <img src="images/odot-data-stream-0.png" width="300" align="right"/>
-<p>I was at UC Berkeley in 2016 in a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright Research scholarship</a>, where I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the <i>odot</i> library in OM.</p>
+<p>I was at UC Berkeley in 2016 in a <a href="http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition" target="_blank">Fulbright Research scholarship</a>, where I had the chance to collaborate with <a href="http://john-maccallum.com/" target="_blank">John MacCallum</a>, <a href="https://adrianfreed.com/" target="_blank">Andrian Freed</a> and other <a href="http://www.cnmat.berkeley.edu/" target="_blank">CNMAT</a> fellows on the development of applications of the <i>odot</i> library in OM/OM#, bringing end-user prgramming down to the core of OSC communication.</p>
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-01353794" target="_blank">FARM'16 Paper</a></b> 
 
@@ -130,7 +130,7 @@ In line with a tradition of research and environments developed in the Music Rep
 </p>
 
 <p>
-Together we integrated this in the OpenMusic/OM# environments, allowing for hybrid offline/ineractive processing and generation of 	musical material. 
+Together we integrated this in the OpenMusic/OM# environments, allowing for hybrid offline/interactive processing and generation of musical structures. 
 </p>
 
 <b>&rarr; <a href="https://github.com/DYCI2/om-dyci2/wiki/[en]" target="_blank">OM-DYCI2</a></b>
@@ -153,7 +153,7 @@ The project explored the relations between computation, time and interactions in
 <p>
 I have worked on this project together with <a href="" target="_blank">Dimitri Bouche</a> (PhD student), <a href="http://recherche.enac.fr/~jeremie.garcia/" target="_blank">Jérémie Garcia</a> (post-doctoral researcher), <a href="https://www.stms-lab.fr/person/thibaut-carpentier/" target="_blank">Thibaut Carpentier</a> (CNRS/Ircam), <a href="http://imtr.ircam.fr/imtr/Diemo_Schwarz" target="_blank">Diemo Schwarz</a> (Ircam) and <a href="https://jacquema.gitlabpages.inria.fr/" target="_blank">Florent Jacquemard</a> (Inria/Ircam). 
 
-EFFICACe research also led to most of the novel features of the <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> environment.
+EFFICACe research also a grounding motivation for the development of interactive visual programming and dynamic scheduling in of the <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">OM#</a> environment.
 </p>
 
 <b>&rarr; <a href="http://repmus.ircam.fr/efficace/" target="_blank">Project pages</a></b>
@@ -168,7 +168,7 @@ EFFICACe research also led to most of the novel features of the <a href="https:/
 
 <img src="images/om-orchidee-2.jpg" width="300" align="right"/>
 
-During the SampleOrchestrator project (ANR-06-RIAM-0027) I created (with <a href="https://www.gregoirecarpentier.net/" target="_blank">Grégoire Carpentier</a>) a client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints and the generation of a "sound target" (a mix of symbolic and audio descriptors), and the decoding dans musical representation of orchestral solutions proposed by Orchidée.    
+During the SampleOrchestrator project (ANR-06-RIAM-0027) I created (with <a href="https://www.gregoirecarpentier.net/" target="_blank">Grégoire Carpentier</a>) a client for the Orchidée orchestration software in OpenMusic. Orchidée was a orchestral constraint solver implemented as a Matlab server commubicating through OSC. The OpenMusic client (<a href="https://github.com/openmusic-project/OM-Orchidee" target="_blank">OM-Orchidée</a>) consisted in a set of objects for the specification of orchestral constraints, the generation of "sound targets" (a mix of symbolic and audio descriptors), and the decoding/exploration of orchestral solutions proposed by Orchidée.    
 
 <b>&rarr; <a href="https://hal.archives-ouvertes.fr/hal-00683471" target="_blank">CMJ Paper</a></b> 
 
@@ -180,11 +180,11 @@ During the SampleOrchestrator project (ANR-06-RIAM-0027) I created (with <a href
 
 <tr><td>
 <p>
-The work and research carried out in my PhD thesis (2004-2007) focused on the idea of integrating sound processing and stnthesis techniques in compositional processes and the OpenMusic environment.
+The work and research carried out in my PhD thesis (2004-2007) was focused on the integration of sound processing and synthesis techniques in compositional processes (and in the OpenMusic environment).
 
-I have created a number of libraries connecting with IRCAM sound processing tools, such as <a href="https://github.com/openmusic-project/OM-SuperVP" target="_blank">OM-SuperVP</a>, <a href="https://github.com/openmusic-project/OM-pm2" target="_blank">OM-pm2</a>, or <a href="https://github.com/openmusic-project/OM-Chant" target="_blank">OM-Chant</a> (see project below).
+I have created several external libraries connecting with IRCAM sound processing tools, such as <a href="https://github.com/openmusic-project/OM-SuperVP" target="_blank">OM-SuperVP</a>, <a href="https://github.com/openmusic-project/OM-pm2" target="_blank">OM-pm2</a>, or <a href="https://github.com/openmusic-project/OM-Chant" target="_blank">OM-Chant</a> (see project below).
 
-<a href="https://github.com/openmusic-project/OMChroma" target="_blank">OMChroma</a> is another project and long-lasting collaboration with composer <a href="http://brahms.ircam.fr/marco-stroppa" target="_blank">Marco Stroppa</a>, providing high-level tools and structures to control sound synthesis via <a href="https://csound.com/" target="_blank">Csound</a>.
+<a href="https://github.com/openmusic-project/OMChroma" target="_blank">OMChroma</a> is another project and long-lasting collaboration with composer <a href="http://brahms.ircam.fr/marco-stroppa" target="_blank">Marco Stroppa</a>, providing high-level tools and structures for the control of sound synthesis via <a href="https://csound.com/" target="_blank">Csound</a>.
 </p>
 </td></tr>
 
@@ -225,9 +225,9 @@ The next step after sound synthesis was to integrate sound spatialization in com
 </p>
 
 <p>
-I created <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat 2</a>: a library for the generation of sound spatialization data and 2D/3D trajectories, connected to an offline renderer made with the Ircam Spatialisateur. 
-OM-Spat also used <a href="http://sdif.sourceforge.net/" target="_blank">SDIF</a> files for encoding and storage of trajectories. 
-<a href="https://github.com/j-bresson/Spat-SDIF-Player" target="_blank">Spat-SDIF-Player</a> is another tool created in Max for real-time OSC streaming of SDIF-encoded trajectories.
+I created <a href="https://github.com/openmusic-project/OM-Spat" target="_blank">OM-Spat 2</a>: a library for the generation of sound spatialization data and 2D/3D trajectories, connected to an offline renderer made with the Ircam <i>Spat</i> library. 
+OM-Spat used <a href="http://sdif.sourceforge.net/" target="_blank">SDIF</a> files for the encoding and storage of trajectories, which could be read by
+<a href="https://github.com/j-bresson/Spat-SDIF-Player" target="_blank">Spat-SDIF-Player</a>, a companion tool created in Max for real-time streaming via OSC.
 </p>
 <p>
 In the same period I collaborated with <a href="http://www.music.mcgill.ca/marlonschumacher/" target="_blank">Marlon Schumacher</a> to the development of <a href="https://www-archive.idmil.org/projects/software/omprisma" target="_blank">OMPrisma</a>. 
@@ -247,12 +247,12 @@ More recently, <a href="https://cac-t-u-s.github.io/om-sharp/" target="_blank">O
 <img src="images/ml2-arp.png" width="300" align="right"/>
 
 <p>
-Musique Lab 2 was a commission to Ircam by the French Ministry of Education (and my first real work contract at Ircam!). 
-The idea was to create tools for music teachers to use computer-assisted compsoition technology to run music classes, allowing them to interactively demonstrate and workshop musical concepts and compositional processes from the repertoires ranging from early to contemporary music.
+Musique Lab 2 was a commission to Ircam by the French Ministry of Education (and my first real work contract at Ircam!) 
+The idea was to provide tools for music teachers to use computer-assisted composition technology to run music classes, allowing them to interactively demonstrate and workshop musical concepts and compositional processes from repertoires ranging from early to contemporary music.
 </p>
 
 <p>
-More concretely, it consisted in a single-window application developed on top of OpenMusic, including most underlying features and inbuilt musical knowledhe (+ some additional features such as the notion of tonality!), whithout the visual programming aspect.
+More concretely, it consisted in a single-window application developed on top of OpenMusic, including most of its underlying features and inbuilt "musical knowledge" (+ some additional features such as the notion of tonality!), whithout the visual programming aspect.
 </p>
 
 <p>
@@ -268,13 +268,13 @@ The application was released for Mac and Windows (it is at the origin of the fir
 <tr><td>
 <img src="images/sdifedit.jpg" width="300" align="right"/>
 <p>
-SDIF-Edit was my first, student internship project developed when I started at IRCAM in 2003.
-It is a 3D visualizer and editor developed in OpenGL, allowing to view the contents of SDIF files (<a href="http://sdif.sourceforge.net/" target="_blank">Sound Description Interchange Format</a>, a file format used by music applications to store dan exchange sounds analysis data, synthesis parameters, etc.)
+SDIF-Edit is a student internship project that I developed when I started at IRCAM in 2003.
+It is a 3D visualizer and editor developed in OpenGL, allowing to view the contents of SDIF files (<a href="http://sdif.sourceforge.net/" target="_blank">Sound Description Interchange Format</a>, a file format used by music applications to store and exchange sounds analysis data, synthesis parameters, etc.)
 </p>
 
 <p>
-An underlying idea was to embed sound description data in compositional processes via an integration in OpenMusic. 
-This idea was brought a few steps further years later in 2017 in the context of <a href="http://www.savannahagger.com/" target="_blank">Savannah Agger</a>'s <i>Landschaften</i> <a href="http://repmus.ircam.fr/efficace/wp/agger" target="_blank">project</a>, and in the framework of <a href="https://cac-t-u-s.github.io/om-sharp/pages/3D-viewer" target="_blank">OM# developments</a>.
+One of the objectives was to embed such sound description data in compositional processes via an integration in of this editor in OpenMusic. 
+This idea was brought a few <a href="https://cac-t-u-s.github.io/om-sharp/pages/3D-viewer" target="_blank">steps further</a> some years later in the context of <a href="http://www.savannahagger.com/" target="_blank">Savannah Agger</a>'s <i>Landschaften</i> <a href="http://repmus.ircam.fr/efficace/wp/agger" target="_blank">residency project at Ircam</a> (2017).
 </p>
 
 <b>&rarr; <a href="https://github.com/j-bresson/SDIF-Edit" target="_blank">SDIF-Edit on GitHub</a></b>
