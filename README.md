@@ -4,7 +4,7 @@ I am a computer music researcher and software engineer: this page contains resou
 
 I am currently working at <a href="http://www.ableton.com" target="_blank">Ableton</a>, as a team Product Owner on the company's flagship software, <a href="https://www.ableton.com/en/live/" target="_blank">Live</a>.
 
-Before that — from 2003 to 2019 — I was at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/bresson" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus and expertise is in computer-assisted music composition and domain-specific (visual) programming: I was the principal developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> project since 2008. My principal contributions to it have consisted in connecting the environment to digital sound processing, spatialization, and real-time interaction systems (see <a href="projects#om">the projects page</a>). 
+Before that — from 2003 to 2019 — I was at <a href="https://www.ircam.fr/recherche/" target="_blank">IRCAM</a> in the <a href="http://repmus.ircam.fr/bresson" target="_blank">Music Representations team</a> of the <a href="https://www.stms-lab.fr/" target="_blank">STMS lab (Science and Technology of Music and Sound)</a>. My main focus and expertise is in computer-assisted music composition and domain-specific (visual) programming: I was the principal developer and researcher in charge of the <a href="https://openmusic-project.github.io/" target="_blank">OpenMusic</a> project since 2008. My principal contributions consisted in connecting the environment to digital sound processing, spatialization, and real-time interaction systems (see <a href="projects#om">the projects page</a>). 
 
 I obtained my PhD from the Université Pierre et Marie Curie in 2007, and my [_Habilitation_ degree (HDR)]((https://hal.archives-ouvertes.fr/tel-01525998/)) in 2017.
 In 2016 I was awarded a Fulbright [research scholarship](http://www.cnmat.berkeley.edu/projects/jean-bresson-interactive-visual-programming-systems-music-composition) carried out at [CNMAT](http://www.cnmat.berkeley.edu/) / UC Berkeley, USA.
@@ -13,8 +13,7 @@ In 2018-2019 I was also part-time guest lecturer at the [Institut für Musikwiss
 
 -----
 
-#### Current projects
-
+#### Projects
 
 <table class="project">
 <tr><th>OM#</th></tr>
@@ -33,7 +32,6 @@ After successive code-names (om7-beta/o7/...) the project was named <b>OM#</b> (
 
 <b>&rarr; <a href="https://cac-t-u-s.github.io/om-sharp/">om-sharp project page</a> (incl. downloads, documentation, etc.)</b>
 </td></tr></table>
-
 
 <br>
 
@@ -59,7 +57,6 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 
 <!-- \| [Support materials](http://repmus.ircam.fr/bresson/hdr). -->
 
-
 - _[The OM Composer's Book](http://repmus.ircam.fr/openmusic/ombook)_, co-edited with Carlos Agon and Gérard Assayag – A series of 3 books about OpenMusic and its use by composers
 - Special issue of [Journal of New Music Research](http://www.tandfonline.com/toc/nnmr20/46/1) (46-1): Interactive Composition, co-edited with Joel Chadabe, 2017.
 - Special issue of [Technique et Science Informatique (TSI)](https://tsi.revuesonline.com/resnum.jsp?editionId=1887&Submit2.x=18&Submit2.y=11) (33-7/8): Informatique Musicale, co-edited with Dominique Fober, 2014.
@@ -71,23 +68,19 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 
 [TENOR (Internation Conference on Technologies for Music Notation and Representation)](https://www.tenor-conference.org)     
 -- Founding member (2015) and general chair (2018-2021) of the conference steering committee.     
-&rarr; Next edition: [Marseille, May 9-11, 2022](https://tenor2022.prism.cnrs.fr/).
+&rarr; Next edition: [Zurich, Switzerland. April 4-6, 2024](https://www.zhdk.ch/en/research/icst/tenor-zurich-20252).
 
-I am also currently in the steering committees of:
-- [FARM](https://functional-art.org): ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
-- [AFIM](http://afim-asso.org) : French Computer Music Association.
+I am part of the steering committees of [AFIM](http://afim-asso.org), the French Computer Music Association.
 
 <br>
-As for 2022, I am in the scientific committee of:
+As for 2024, I am in the scientific committee of:
+- [TENOR 2024](https://www.zhdk.ch/en/research/icst/tenor-zurich-20252), Zurich, Switzerland
 
-- Sound and Music Computing: [SMC'22](https://smc22.grame.fr/), Saint-Etienne, France (_Senior Scientific Committe_).
-- [TENOR 2022](https://tenor2022.prism.cnrs.fr/), Marseille, France.
-- [FARM 2022](https://functional-art.org/2022/), 9th ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design, held with [ICFP 2022](https://icfp22.sigplan.org/), the Internatioal Conference on Functional Programming,  Ljubljana, Slovenia.
-
+<br>
+Between 2017 and 2023 I was part of the [FARM](https://functional-art.org) steering committee (ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design).
 
 <br>
 I was the coordinator of the following events, research groups or seminars:    
-
 - [MaMuX: Mathematics, Music and relations to other disciplines](http://repmus.ircam.fr/mamux/) (2011-2014, IRCAM, Paris — 8 annual half-day sessions, 80+ speakers).
 - [MusICAL network Seminar Series](http://repmus.ircam.fr/musical/) on Interaction, Calculus, Algorithmics and Languages applied to Music \[FR\] (2015-2018).
 - [New spaces of music notation](http://notation.afim-asso.org/) work group of the AFIM (French computer music association) (2013-2015)
@@ -107,25 +100,17 @@ I was the coordinator of the following events, research groups or seminars:
 
 - [EFFICACe: New paradigms for computer-aided music composition](https://anr.fr/Project-ANR-13-JS02-0004) (2013-2017).     
 French National Research Agency (ANR) Young Research Programme for Exploratory and Emerging Research (JCJC). 
-
 - [PACO: Artificial Intelligence and Computer-Assisted Composition](http://repmus.ircam.fr/paco/home-en) (2018-2019).       
 CNRS "PEPS" (start-up) program for exploratory projects (with focus on artificial intelligence). UMR 9912 STMS.
 
 
-##### PhD Students:
+##### PhD Direction and Supervision:
 
-- Martin Fouilleul, 2019-..., PhD IRCAM / STMS lab (Sorbonne Université, Paris): **Architecture and language for distributed temporal flow management, and applications to multimedia creation** (co-direction with [Jean-Louis Giavitto](http://repmus.ircam.fr/giavitto)).      
-
-<!--
-- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): _Hierarchical temporal learning​ for multi-instrument and orchestral audio synthesis_ (supervised by P. Esling).
--->
-
-##### Previously:
-
-- Marlon Schumacher, PhD McGill University, Montreal, CA: [A Framework for Computer-Aided Composition of Space, Gesture, and Sound](https://hal.archives-ouvertes.fr/tel-01491794/) (co-supervision / dir.: Marcelo Wanderley, Sean Ferguson, 2016).
-- Charles de Paiva Santana, PhD Université Pierre et Marie Curie, Paris / University of Campinas, Brasil. International Doctoral Program of the Research Institute for Development (IRD): [The Musical Score as an Instance: Essays in Computer-Assisted Analysis](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330294) (supervision / dir.: Moreno Andreatta, Jônatas Manzolli, 2016).
-- Dimitri Bouche, PhD IRCAM / STMS lab (Sorbonne Université, Paris): [Interactive compositional processes : a framework for programming and rendering musical structures](https://tel.archives-ouvertes.fr/tel-01524393/) (2016).
-
+- Marlon Schumacher, PhD McGill University (Montreal, CA): [A Framework for Computer-Aided Composition of Space, Gesture, and Sound](https://hal.science/tel-01491794/). Co-supervision / dir.: Marcelo Wanderley, Sean Ferguson. 2016.
+- Charles de Paiva Santana, PhD Université Pierre et Marie Curie (Paris, FR) / University of Campinas (Brasil). International Doctoral Program of the Research Institute for Development (IRD): [The Musical Score as an Instance: Essays in Computer-Assisted Analysis](https://www.theses.fr/2016PA066672). Co-supervision / dir.: Moreno Andreatta, Jônatas Manzolli. 2016
+- Dimitri Bouche, PhD IRCAM / STMS lab (Sorbonne Université, Paris): [Interactive compositional processes : a framework for programming and rendering musical structures](https://theses.hal.science/tel-01524393/). 2016.
+- Martin Fouilleul, PhD IRCAM / STMS lab (Sorbonne Université, Paris): [A temporal programming environment for live shows and art installations](https://theses.hal.science/tel-04051156). Co-supervision [Jean-Louis Giavitto](http://repmus.ircam.fr/giavitto). 2023.      
+- Antoine Caillon,  PhD IRCAM / STMS lab (Sorbonne Université, Paris): [Hierarchical temporal learning for multi-instrument and orchestral audio synthesis](https://theses.hal.science/tel-04137258). Co-direction Philippe Esling. 2023.
 
 
 
