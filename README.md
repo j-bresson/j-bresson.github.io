@@ -66,18 +66,12 @@ _Computer-assisted composition: visual programming techniques and tools for musi
 
 #### Community 
 
-[TENOR (Internation Conference on Technologies for Music Notation and Representation)](https://www.tenor-conference.org)     
--- Founding member (2015) and general chair (2018-2021) of the conference steering committee.     
-&rarr; Next edition: [Zurich, Switzerland. April 4-6, 2024](https://www.zhdk.ch/en/research/icst/tenor-zurich-20252).
 
-I am part of the steering committees of [AFIM](http://afim-asso.org), the French Computer Music Association.
-
+In 2015, together with a few colleagues from the French Computer Music Association (AFIM), I participated in the creation of [TENOR](https://www.tenor-conference.org), the International Conference on Technologies for Music Notation and Representation. I was the general chair of the conference steering committee between 2018 and 2021, and still a member of this committee until 2024.
 <br>
-As for 2024, I am in the scientific committee of:
-- [TENOR 2024](https://www.zhdk.ch/en/research/icst/tenor-zurich-20252), Zurich, Switzerland
-
+I am also part of the steering committee of [AFIM](http://afim-asso.org), the French Computer Music Association.
 <br>
-Between 2017 and 2023 I was part of the [FARM](https://functional-art.org) steering committee (ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design).
+Between 2017 and 2023 I was in the [FARM](https://functional-art.org) steering committee (ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design).
 
 <br>
 I was the coordinator of the following events, research groups or seminars:    
